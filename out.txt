@@ -1,0 +1,6500 @@
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<528.400024] yes=3,no=4,missing=4
+		3:leaf=0.0269114971
+		4:leaf=0.00289667281
+	2:[V4+<7] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <18.7258072] yes=7,no=8,missing=7
+			7:leaf=0.0202767029
+			8:leaf=-0.0144833587
+		6:leaf=-0.026347449
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[visit 2-IL-6 dressing<195.298401] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<17] yes=3,no=4,missing=4
+		3:leaf=0.00972405076
+		4:leaf=-0.0298872795
+	2:leaf=0.0317328088
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[Visit 2 -  number of M1 dressing<38] yes=1,no=2,missing=2
+	1:[visit 2-PDGF-BB Exudate<112.516098] yes=3,no=4,missing=3
+		3:leaf=-0.0221247543
+		4:leaf=0.013253171
+	2:leaf=0.0218805335
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-TNF-a dressing<191.628998] yes=3,no=4,missing=3
+		3:leaf=0.0122130262
+		4:[visit 2-IL-6 Exudate<119.854797] yes=5,no=6,missing=5
+			5:leaf=-0.0189901739
+			6:leaf=-0.000368163601
+	2:leaf=0.0174371842
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <114.548401] yes=1,no=2,missing=2
+	1:leaf=0.0116755031
+	2:[visit 3-IL-6 dressing<130.741898] yes=3,no=4,missing=4
+		3:leaf=0.00787130836
+		4:[Visit 3 -  number of M2 Dressing<31] yes=5,no=6,missing=6
+			5:leaf=-0.00152822747
+			6:leaf=-0.0159603469
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[V4-Protein in wou dressing <8.08064461] yes=1,no=2,missing=1
+	1:[visit 3-IL-6 Exudate<207.919403] yes=3,no=4,missing=4
+		3:leaf=-0.0124642635
+		4:[Visit 2-CD105EXUDATE <0.649999976] yes=5,no=6,missing=6
+			5:leaf=0.00029869983
+			6:leaf=0.00769002223
+	2:leaf=0.0120493909
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[visit 3-TNF-a dressing<191.628998] yes=1,no=2,missing=1
+	1:leaf=0.0110605583
+	2:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0122212153
+		4:leaf=0.00454051513
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Male(0) Female(1)<1] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <55.7419357] yes=3,no=4,missing=4
+		3:leaf=0.00151927955
+		4:leaf=-0.0107407635
+	2:leaf=0.00711973337
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 - Wound area in mm2<947.200012] yes=1,no=2,missing=2
+	1:[visit 2-IL-6 Exudate<117.717697] yes=3,no=4,missing=3
+		3:leaf=-0.0036902104
+		4:leaf=0.0111471415
+	2:leaf=-0.00757548958
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 3 -  number of M2 Exudate<6] yes=1,no=2,missing=1
+	1:leaf=-0.00618792744
+	2:leaf=0.0053094388
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 2 - Total cell number (exudate)<30967] yes=1,no=2,missing=2
+	1:leaf=-0.00487153418
+	2:leaf=0.00433084322
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[Visit 3-CD105EXUDATE<0.961538434] yes=1,no=2,missing=2
+	1:leaf=0.00449485425
+	2:leaf=-0.00446360325
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 2-IL-6 Exudate<117.717697] yes=1,no=2,missing=1
+	1:leaf=-0.00394241791
+	2:leaf=0.00415521441
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-TNF-a Exudate<188.322601] yes=1,no=2,missing=1
+	1:leaf=-0.00357799022
+	2:leaf=0.00396308396
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-IL-6 Exudate<195.661301] yes=1,no=2,missing=2
+	1:leaf=-0.00367153389
+	2:leaf=0.00366300973
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:[visit 3-TNF-a dressing<233.443497] yes=1,no=2,missing=1
+	1:leaf=0.00362318219
+	2:leaf=-0.00364360027
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
+0:leaf=-1.27541921e-10
+
