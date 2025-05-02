@@ -1,0 +1,1902 @@
+0:[Wound Area V3 vs V1<0.300000012] yes=1,no=2,missing=2
+	1:[Age<75] yes=3,no=4,missing=4
+		3:leaf=0.0672685951
+		4:[Visit 3-CD105<20] yes=7,no=8,missing=8
+			7:leaf=-0.0359047428
+			8:[Wound Area V2 vs V1<-0.0900000036] yes=9,no=10,missing=10
+				9:leaf=0.00557765225
+				10:leaf=0.0527944863
+	2:[Visit 1 - Total cell number (exudate)<15333.2998] yes=5,no=6,missing=6
+		5:leaf=0.00557765225
+		6:leaf=-0.0435347185
+
+0:[Wound Area V3 vs V1<0.140000001] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<71.3000031] yes=3,no=4,missing=4
+		3:leaf=-0.0296051241
+		4:leaf=0.0615965687
+	2:leaf=-0.0381051563
+
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=1
+	1:[Visit 2-CD105 <7] yes=3,no=4,missing=4
+		3:[Wound Area V2 vs V1<0.170000002] yes=5,no=6,missing=6
+			5:leaf=-0.0320482031
+			6:leaf=0.00731575442
+		4:leaf=0.0629081577
+	2:leaf=-0.0320309959
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=1
+	1:[Healing Rate<-10.3599997] yes=3,no=4,missing=3
+		3:[CD105 Slope<87] yes=5,no=6,missing=5
+			5:leaf=0.0521115959
+			6:leaf=0.00511313742
+		4:[Visit 3 - Wound area in mm2<67.6999969] yes=7,no=8,missing=8
+			7:leaf=0.0370427519
+			8:leaf=-0.0318752006
+	2:leaf=-0.0293923859
+
+0:[Wound Area V3 vs V1<0.310000002] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<-0.0599999987] yes=3,no=4,missing=4
+		3:[Exudate Cell n. slope<147676] yes=7,no=8,missing=8
+			7:leaf=0.0309899449
+			8:leaf=-0.0218231995
+		4:leaf=0.0485593192
+	2:[Wound Area V2 vs V1<0.00999999978] yes=5,no=6,missing=6
+		5:leaf=0.00918546785
+		6:leaf=-0.0298427623
+
+0:[Wound Area V3 vs V1<0.310000002] yes=1,no=2,missing=2
+	1:[r2<0.879599988] yes=3,no=4,missing=4
+		3:leaf=-0.0312585793
+		4:leaf=0.04011048
+	2:[Visit 3 -  number of M2 Exudate<2] yes=5,no=6,missing=6
+		5:leaf=0.00990619231
+		6:leaf=-0.0266569201
+
+0:[r2<0.961799979] yes=1,no=2,missing=2
+	1:[Visit 3 - Total cell number (exudate)<227924] yes=3,no=4,missing=3
+		3:[Wound Area V3 vs V1<0.389999986] yes=7,no=8,missing=7
+			7:leaf=-0.0365385264
+			8:leaf=-0.019979639
+		4:[Wound Area V3 vs V1<0.319999993] yes=9,no=10,missing=10
+			9:leaf=0.0323610418
+			10:leaf=-0.0139936125
+	2:[Wound Area V2 vs V1<0.170000002] yes=5,no=6,missing=6
+		5:[Visit 1 - Total cell number (exudate)<58823] yes=11,no=12,missing=12
+			11:leaf=0.0212933905
+			12:leaf=0.0494368188
+		6:[Visit 2-CD105 <4] yes=13,no=14,missing=14
+			13:leaf=-0.0198618975
+			14:leaf=0.00183314178
+
+0:[Exudate Cell n r2<0.991100013] yes=1,no=2,missing=2
+	1:[Wound Area V3 vs V1<0.469999999] yes=3,no=4,missing=3
+		3:[Visit 2 - Total cell number (exudate)<714285] yes=7,no=8,missing=8
+			7:[Wound Area V3 vs V1<-0.0900000036] yes=9,no=10,missing=10
+				9:leaf=0.0170281809
+				10:leaf=0.0451675318
+			8:leaf=-0.00287834811
+		4:leaf=-0.0165222324
+	2:[CD105 Slope<23] yes=5,no=6,missing=6
+		5:leaf=-0.0244905874
+		6:leaf=0.00764238695
+
+0:[Wound Area V3 vs V1<0.209999993] yes=1,no=2,missing=1
+	1:[Visit 2-CD105 <7] yes=3,no=4,missing=4
+		3:[Tot Vistis<4] yes=5,no=6,missing=6
+			5:leaf=0.00681132777
+			6:leaf=-0.0250036959
+		4:[r2<0.947600007] yes=7,no=8,missing=8
+			7:leaf=-0.00435585901
+			8:leaf=0.0306401998
+	2:leaf=-0.0187911391
+
+0:[Wound Area V2 vs V1<-0.0399999991] yes=1,no=2,missing=2
+	1:[Visit 3 - Total cell number (exudate)<6451.6001] yes=3,no=4,missing=3
+		3:leaf=0.000858653046
+		4:leaf=0.0347378552
+	2:[r2<0.952199996] yes=5,no=6,missing=6
+		5:leaf=-0.0190097541
+		6:[Wound Area V3 vs V1<0.319999993] yes=7,no=8,missing=7
+			7:leaf=0.0253527854
+			8:leaf=-0.0171874221
+
+0:[Visit 3 - Wound area in mm2<59.5] yes=1,no=2,missing=1
+	1:[Visit 3 -  number of M2 dressing<0] yes=3,no=4,missing=4
+		3:leaf=0.0160150919
+		4:[Wound Area V3 vs V1<0.389999986] yes=7,no=8,missing=7
+			7:leaf=-0.0284090787
+			8:leaf=-0.0143661099
+	2:[Wound Area V2 vs V1<0.219999999] yes=5,no=6,missing=6
+		5:[BMI<19] yes=9,no=10,missing=10
+			9:leaf=-0.00254129036
+			10:[Visit 3 -  number of M2 dressing<8] yes=11,no=12,missing=11
+				11:leaf=0.0152881686
+				12:[Visit 1 - Wound area in mm2<95] yes=13,no=14,missing=14
+					13:leaf=0.0139978398
+					14:leaf=0.0394009501
+		6:leaf=-0.0113841845
+
+0:[Wound Area V3 vs V1<0.49000001] yes=1,no=2,missing=1
+	1:[Healing Rate<-0.5] yes=3,no=4,missing=3
+		3:[Visit 2-Protein in wou dressing <6.91129017] yes=5,no=6,missing=6
+			5:leaf=0.010939992
+			6:[BMI<19.3999996] yes=9,no=10,missing=10
+				9:leaf=0.0179245975
+				10:leaf=0.0418043062
+		4:[Visit 1 - Total cell number (exudate)<8000] yes=7,no=8,missing=7
+			7:leaf=-0.000407322368
+			8:leaf=-0.0204193108
+	2:leaf=-0.0138909686
+
+0:[Wound Area V2 vs V1<0.129999995] yes=1,no=2,missing=2
+	1:[Visit 2-CD105 <22] yes=3,no=4,missing=4
+		3:[CD105 Slope<3] yes=7,no=8,missing=7
+			7:leaf=-0.0288985018
+			8:[Tot Vistis<4] yes=13,no=14,missing=14
+				13:leaf=0.022963427
+				14:leaf=0.00176627375
+		4:[Visit 3 -  number of M2 Exudate<11] yes=9,no=10,missing=10
+			9:leaf=0.0442304574
+			10:leaf=0.0172470193
+	2:[V2 +<95] yes=5,no=6,missing=6
+		5:leaf=0.00134702597
+		6:[Wound Area V3 vs V1<0.469999999] yes=11,no=12,missing=11
+			11:leaf=-0.0223374795
+			12:leaf=-0.0107344845
+
+0:[Exudate Cell n. slope<-12500] yes=1,no=2,missing=1
+	1:[Visit 3 - Total cell number (exudate)<74000] yes=3,no=4,missing=3
+		3:[BMI<36.2999992] yes=7,no=8,missing=7
+			7:[Wound Area V3 vs V1<0.389999986] yes=11,no=12,missing=11
+				11:leaf=-0.0324104615
+				12:leaf=-0.0127260117
+			8:[Wound Area V2 vs V1<0.0199999996] yes=13,no=14,missing=14
+				13:leaf=0.00732866768
+				14:leaf=-0.00876961928
+		4:leaf=0.0170689803
+	2:[Age<95] yes=5,no=6,missing=6
+		5:[V1 -<15] yes=9,no=10,missing=10
+			9:[Visit 2-Protein in wou dressing <6.83064508] yes=15,no=16,missing=15
+				15:leaf=-0.00132474757
+				16:leaf=0.0128151132
+			10:leaf=0.0296861324
+		6:leaf=-0.0117101539
+
+0:[V3 +<58] yes=1,no=2,missing=2
+	1:leaf=0.0162065867
+	2:[r2<0.963400006] yes=3,no=4,missing=4
+		3:[Visit 2 - Total cell number (exudate)<2666] yes=5,no=6,missing=6
+			5:leaf=0.00115780649
+			6:[Wound Area V2 vs V1<0.0500000007] yes=9,no=10,missing=10
+				9:leaf=-0.0240166802
+				10:leaf=-0.0114722271
+		4:[Visit 1 - Wound area in mm2<58.2000008] yes=7,no=8,missing=8
+			7:leaf=-0.0166600626
+			8:[Visit 1 - Wound area in mm2<533.099976] yes=11,no=12,missing=11
+				11:leaf=0.0252423231
+				12:leaf=0.00723374402
+
+0:[Visit 2 - Total cell number (exudate)<12903226] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<0.0500000007] yes=3,no=4,missing=4
+		3:[Visit 3 -  number of M2 dressing<7] yes=7,no=8,missing=8
+			7:leaf=-0.00954787713
+			8:[Collagen slope<-0.866900027] yes=11,no=12,missing=12
+				11:leaf=0.0364037007
+				12:leaf=0.0136185037
+		4:[Wound duration at day 0<396] yes=9,no=10,missing=10
+			9:leaf=-0.012993901
+			10:leaf=0.0128832087
+	2:[BMI<34.9000015] yes=5,no=6,missing=6
+		5:leaf=-0.0288363434
+		6:leaf=-0.0092768874
+
+0:[CD105 Slope<-13] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<-0.119999997] yes=3,no=4,missing=4
+		3:leaf=0.00699390098
+		4:leaf=0.0354331546
+	2:[Wound Area V2 vs V1<-0.0500000007] yes=5,no=6,missing=6
+		5:leaf=0.0141684329
+		6:[Visit 3 - Wound area in mm2<111.699997] yes=7,no=8,missing=7
+			7:[Wound Area V3 vs V1<0.589999974] yes=9,no=10,missing=9
+				9:leaf=-0.0245358162
+				10:leaf=-0.00977292098
+			8:[r2<0.785399973] yes=11,no=12,missing=11
+				11:leaf=0.00205544545
+				12:leaf=-0.00498684449
+
+0:[Visit 2 - Wound area in mm2<528.400024] yes=1,no=2,missing=1
+	1:[CD105 Slope<-34] yes=3,no=4,missing=4
+		3:leaf=0.0140172942
+		4:[Visit 1 - Total cell number (exudate)<3333] yes=7,no=8,missing=8
+			7:leaf=0.00740733696
+			8:[Visit 2-Protein in wou dressing <43.6048393] yes=9,no=10,missing=9
+				9:[Exudate Cell n r2<0.337099999] yes=11,no=12,missing=11
+					11:[Wound Area V2 vs V1<0.460000008] yes=13,no=14,missing=14
+						13:leaf=-0.0117348488
+						14:leaf=-0.00449028704
+					12:leaf=-0.0225786548
+				10:leaf=0.00203972147
+	2:[Wound Area V2 vs V1<0.100000001] yes=5,no=6,missing=6
+		5:leaf=0.0171411019
+		6:leaf=0.00610615313
+
+0:[Visit 2-Protein in wou dressing <34.8548393] yes=1,no=2,missing=1
+	1:[Visit 2-CD105 <22] yes=3,no=4,missing=3
+		3:[Visit 3 - Wound area in mm2<280.299988] yes=7,no=8,missing=7
+			7:[Wound Area V3 vs V1<0.389999986] yes=11,no=12,missing=11
+				11:leaf=-0.0227859411
+				12:[Exudate Cell n r2<0.413100004] yes=15,no=16,missing=15
+					15:leaf=-0.00914381724
+					16:leaf=-0.00264011207
+			8:leaf=0.0064384602
+		4:[Wound Area V2 vs V1<0.289999992] yes=9,no=10,missing=10
+			9:leaf=0.028507445
+			10:[Collagen slope<-23.5359993] yes=13,no=14,missing=14
+				13:leaf=-0.00477544544
+				14:leaf=-0.0130447149
+	2:[Wound Area V3 vs V1<0.109999999] yes=5,no=6,missing=6
+		5:leaf=0.00538058346
+		6:leaf=0.0313305631
+
+0:[CD105 Slope<50] yes=1,no=2,missing=1
+	1:[Wound Area V3 vs V1<0.209999993] yes=3,no=4,missing=4
+		3:[Healing Rate<-10.3599997] yes=7,no=8,missing=7
+			7:[Visit 1 - Wound area in mm2<583] yes=11,no=12,missing=12
+				11:leaf=0.0059256861
+				12:leaf=0.0143063813
+			8:leaf=-0.00387852429
+		4:[Charlson Comorbidity Index<7] yes=9,no=10,missing=10
+			9:leaf=-0.0124105765
+			10:leaf=-0.00567897735
+	2:[Wound Area V2 vs V1<0.00999999978] yes=5,no=6,missing=6
+		5:leaf=0.0372612141
+		6:leaf=0.0100821666
+
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=2
+	1:[Visit 3-CD105<46] yes=3,no=4,missing=4
+		3:[Visit 3 -  number of M2 dressing<7] yes=7,no=8,missing=8
+			7:leaf=-0.0156817213
+			8:leaf=0.00834399741
+		4:[Visit 2-Protein in wou dressing <14.408] yes=9,no=10,missing=10
+			9:leaf=0.00886061881
+			10:leaf=0.0291780978
+	2:[Visit 3 -  number of M2 Exudate<2] yes=5,no=6,missing=6
+		5:leaf=0.0097383149
+		6:[r2<0.879599988] yes=11,no=12,missing=11
+			11:[Wound Area V2 vs V1<0.439999998] yes=13,no=14,missing=14
+				13:leaf=-0.0169223789
+				14:leaf=-0.00533865718
+			12:leaf=-0.0048869825
+
+0:[Exudate Cell n. slope<784.150024] yes=1,no=2,missing=1
+	1:[Wound duration at day 0<284] yes=3,no=4,missing=3
+		3:[Exudate Cell n. slope<-38500] yes=7,no=8,missing=7
+			7:[Age<81] yes=11,no=12,missing=12
+				11:[Healing Rate<108.629997] yes=13,no=14,missing=14
+					13:leaf=-0.0117281256
+					14:leaf=-0.0038888976
+				12:[Wound Area V3 vs V1<0.660000026] yes=15,no=16,missing=15
+					15:leaf=0.000507888442
+					16:leaf=-0.00401050039
+			8:leaf=-0.0286819618
+		4:[Visit 1 - Total cell number (exudate)<121212] yes=9,no=10,missing=10
+			9:leaf=-0.000974088616
+			10:leaf=0.0117925107
+	2:[Wound Area V2 vs V1<-0.0700000003] yes=5,no=6,missing=6
+		5:leaf=0.00630035857
+		6:leaf=0.0261889901
+
+0:[Visit 2 -  number of M1 dressing<13] yes=1,no=2,missing=2
+	1:[Visit 1 - Wound area in mm2<632] yes=3,no=4,missing=3
+		3:[Visit 3 -  number of M2 Exudate<20] yes=7,no=8,missing=8
+			7:leaf=-0.0175807681
+			8:leaf=-0.00533202663
+		4:leaf=0.00325879059
+	2:[Wound Area V3 vs V1<0.389999986] yes=5,no=6,missing=6
+		5:[Visit 3 -  number of M2 Exudate<18] yes=9,no=10,missing=10
+			9:leaf=0.0299827792
+			10:[% estimated 10-year survival<21] yes=13,no=14,missing=14
+				13:leaf=0.00755360303
+				14:leaf=0.00271962979
+		6:[Visit 2 - Total cell number (exudate)<10000] yes=11,no=12,missing=11
+			11:leaf=-0.00210233196
+			12:leaf=-0.0112396618
+
+0:[CD105 Slope<-34] yes=1,no=2,missing=2
+	1:[Visit 2 - Total cell number (exudate)<3225] yes=3,no=4,missing=3
+		3:leaf=0.00813764147
+		4:leaf=0.0272193383
+	2:[Wound Area V3 vs V1<-0.150000006] yes=5,no=6,missing=5
+		5:leaf=-0.0243966505
+		6:[V1 +<83] yes=7,no=8,missing=8
+			7:leaf=0.0111368261
+			8:[Collagen slope<95] yes=9,no=10,missing=10
+				9:[Exudate Cell n r2<0.413100004] yes=11,no=12,missing=11
+					11:[r2<0.888100028] yes=15,no=16,missing=15
+						15:leaf=-0.0159108452
+						16:leaf=-0.0069224569
+					12:[% estimated 10-year survival<2] yes=17,no=18,missing=18
+						17:leaf=-0.00517696282
+						18:leaf=-0.00176685851
+				10:[Wound Area V3 vs V1<0.310000002] yes=13,no=14,missing=14
+					13:[Visit 3 - Total cell number (exudate)<2000] yes=19,no=20,missing=20
+						19:leaf=0.00833704975
+						20:leaf=0.0030904212
+					14:[Visit 1 - Wound area in mm2<385] yes=21,no=22,missing=22
+						21:leaf=-0.000738223025
+						22:leaf=-0.00542338565
+
+0:[Visit 2 - Total cell number (exudate)<108125] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<0.100000001] yes=3,no=4,missing=4
+		3:[Exudate Cell n r2<0.751399994] yes=7,no=8,missing=8
+			7:[Charlson Comorbidity Index<4] yes=13,no=14,missing=14
+				13:leaf=0.00134234608
+				14:leaf=0.00419514114
+			8:leaf=0.0162297823
+		4:[r2<0.709299982] yes=9,no=10,missing=10
+			9:leaf=-0.00432958454
+			10:leaf=0.000480697403
+	2:[Visit 2 -  number of M1 dressing<7] yes=5,no=6,missing=6
+		5:leaf=0.0131019922
+		6:[Visit 3 -  number of M2 dressing<249.399994] yes=11,no=12,missing=12
+			11:[Age<77] yes=15,no=16,missing=16
+				15:leaf=-0.00985925831
+				16:leaf=-0.0248860531
+			12:[Wound Area V2 vs V1<0.219999999] yes=17,no=18,missing=18
+				17:leaf=0.00111998001
+				18:leaf=-0.00328956102
+
+0:[Exudate Cell n r2<0.991100013] yes=1,no=2,missing=1
+	1:[Wound Area V3 vs V1<0.49000001] yes=3,no=4,missing=3
+		3:[Collagen slope<-10.4440002] yes=5,no=6,missing=5
+			5:[Wound Area V2 vs V1<-0.0500000007] yes=9,no=10,missing=10
+				9:leaf=0.00549748586
+				10:leaf=0.0196729265
+			6:[Visit 2-CD105 <4] yes=11,no=12,missing=12
+				11:leaf=-0.00637018634
+				12:[Visit 2 - Wound area in mm2<105] yes=15,no=16,missing=15
+					15:leaf=0.0103099328
+					16:leaf=0.00133468967
+		4:[V3-vol<3] yes=7,no=8,missing=8
+			7:leaf=-0.00953455921
+			8:[r2<0.642400026] yes=13,no=14,missing=13
+				13:leaf=-0.00370352413
+				14:leaf=-0.0012319528
+	2:leaf=-0.0260082968
+
+0:[Visit 2 - Total cell number (exudate)<400000] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <86.9100037] yes=3,no=4,missing=4
+		3:[Wound Area V2 vs V1<0.100000001] yes=7,no=8,missing=8
+			7:leaf=0.0059686196
+			8:[Visit 2 - Total cell number (exudate)<10000] yes=13,no=14,missing=14
+				13:leaf=-0.000200814015
+				14:[r2<0.527100027] yes=15,no=16,missing=16
+					15:leaf=-0.00335255754
+					16:leaf=-0.00937254168
+		4:leaf=0.020789912
+	2:[BMI<35.2999992] yes=5,no=6,missing=6
+		5:[Visit 3-CD105<19] yes=9,no=10,missing=9
+			9:leaf=-0.00520787342
+			10:leaf=-0.0181772131
+		6:[Wound Area V2 vs V1<0.219999999] yes=11,no=12,missing=12
+			11:leaf=0.01101592
+			12:leaf=-0.00370657374
+
+0:[V1 -<23] yes=1,no=2,missing=2
+	1:[Visit 3 - Total cell number (exudate)<74000] yes=3,no=4,missing=4
+		3:[Visit 3 -  number of M2 dressing<5.17999983] yes=7,no=8,missing=7
+			7:[r2<0.952199996] yes=13,no=14,missing=14
+				13:leaf=-0.00599657511
+				14:leaf=0.000516654167
+			8:leaf=-0.0196636599
+		4:[Visit 3 - Total cell number (exudate)<430588] yes=9,no=10,missing=10
+			9:leaf=0.010805035
+			10:[r2<0.743200004] yes=15,no=16,missing=16
+				15:leaf=-0.0075118863
+				16:[r2<0.879599988] yes=17,no=18,missing=17
+					17:leaf=0.00140130974
+					18:leaf=-0.00158639706
+	2:[Visit 3 -  number of M2 Exudate<23] yes=5,no=6,missing=5
+		5:leaf=0.0260195788
+		6:[r2<0.227200001] yes=11,no=12,missing=11
+			11:leaf=9.40234968e-05
+			12:leaf=-0.00689446693
+
+0:[Age<82] yes=1,no=2,missing=1
+	1:[CD105 Slope<50] yes=3,no=4,missing=3
+		3:[Visit 1 - Wound area in mm2<246.199997] yes=7,no=8,missing=7
+			7:[Visit 2 -  number of M1 Exudate<14] yes=13,no=14,missing=13
+				13:[Wound Area V2 vs V1<0.75] yes=17,no=18,missing=18
+					17:leaf=-0.0131465392
+					18:leaf=-0.00352391857
+				14:[Wound Area V2 vs V1<-0.119999997] yes=19,no=20,missing=20
+					19:leaf=0.000555474486
+					20:leaf=-0.0031077282
+			8:[Visit 3 - Total cell number (exudate)<6666] yes=15,no=16,missing=16
+				15:leaf=0.00670468528
+				16:leaf=0.000505453267
+		4:[Visit 1 - Wound area in mm2<611.200012] yes=9,no=10,missing=9
+			9:leaf=0.0186314527
+			10:leaf=-0.00417409604
+	2:[Wound Area V3 vs V1<0.389999986] yes=5,no=6,missing=6
+		5:[Wound Area V3 vs V1<-0.0299999993] yes=11,no=12,missing=12
+			11:leaf=0.00674775988
+			12:leaf=0.0243889317
+		6:leaf=-0.00121148443
+
+0:[Visit 2-CD105 <22] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<7] yes=3,no=4,missing=3
+		3:[BMI<34.7000008] yes=7,no=8,missing=7
+			7:[CD105 Slope<0] yes=13,no=14,missing=13
+				13:leaf=0.00126944168
+				14:leaf=-0.00209632819
+			8:leaf=-0.00826049875
+		4:leaf=-0.0211123507
+	2:[Age<74] yes=5,no=6,missing=6
+		5:[Visit 2 - Wound area in mm2<152.699997] yes=9,no=10,missing=10
+			9:leaf=0.000518444052
+			10:leaf=-0.00487743132
+		6:[Visit 2 - Wound area in mm2<156] yes=11,no=12,missing=12
+			11:leaf=0.00735703483
+			12:leaf=0.0225946121
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <34.8548393] yes=3,no=4,missing=4
+		3:[Collagen slope<17] yes=7,no=8,missing=8
+			7:leaf=-0.00447774539
+			8:[Wound Area V2 vs V1<-0.119999997] yes=11,no=12,missing=12
+				11:leaf=0.00170239341
+				12:leaf=0.0046284399
+		4:leaf=0.017233301
+	2:[Visit 2 - Wound area in mm2<62.5] yes=5,no=6,missing=6
+		5:leaf=-0.000400944147
+		6:[Visit 3-CD105<3] yes=9,no=10,missing=9
+			9:leaf=-0.00422307942
+			10:leaf=-0.0099164797
+
+0:[Visit 3 - Total cell number (exudate)<17142] yes=1,no=2,missing=2
+	1:[Visit 3 - Total cell number (exudate)<3030] yes=3,no=4,missing=4
+		3:leaf=0.000578913081
+		4:leaf=0.0205534343
+	2:[Visit 2-CD105 <7] yes=5,no=6,missing=6
+		5:[Wound Area V3 vs V1<0.209999993] yes=7,no=8,missing=7
+			7:leaf=-0.0179882459
+			8:leaf=-0.00368486578
+		6:[Visit 2-Protein in wou dressing <30.3387108] yes=9,no=10,missing=10
+			9:[Visit 3 - Total cell number (exudate)<344000] yes=11,no=12,missing=12
+				11:leaf=0.00238301209
+				12:leaf=-0.000223444353
+			10:[CD105 Slope<0] yes=13,no=14,missing=14
+				13:leaf=7.8500525e-05
+				14:[Female(0),Male(1)<1] yes=15,no=16,missing=16
+					15:leaf=-0.00319950655
+					16:leaf=-0.00755966315
+
+0:[Visit 1 - Wound area in mm2<172.600006] yes=1,no=2,missing=2
+	1:[Tot Vistis<4] yes=3,no=4,missing=4
+		3:leaf=-0.00162063225
+		4:[Visit 1 - Total cell number (exudate)<11764.7002] yes=7,no=8,missing=8
+			7:leaf=0.00469764974
+			8:leaf=0.0171586052
+	2:[Visit 3 - Total cell number (exudate)<74000] yes=5,no=6,missing=6
+		5:[Visit 1 - Total cell number (exudate)<3333] yes=9,no=10,missing=10
+			9:leaf=-0.000550528697
+			10:[Wound Area V2 vs V1<0.0500000007] yes=13,no=14,missing=14
+				13:leaf=-0.0185574852
+				14:leaf=-0.00738231186
+		6:[BMI<30.7999992] yes=11,no=12,missing=12
+			11:[Visit 3 -  number of M2 dressing<34] yes=15,no=16,missing=16
+				15:leaf=-0.00676237047
+				16:[Wound Area V3 vs V1<0.469999999] yes=19,no=20,missing=20
+					19:leaf=-0.00159337337
+					20:leaf=0.000388543791
+			12:[V1 +<87] yes=17,no=18,missing=17
+				17:leaf=0.000221741371
+				18:leaf=0.00263710343
+
+0:[r2<0.257099986] yes=1,no=2,missing=1
+	1:[Visit 3-CD105<33] yes=3,no=4,missing=3
+		3:[Visit 1 - Wound area in mm2<172.600006] yes=7,no=8,missing=7
+			7:leaf=-0.0102144685
+			8:[Visit 1 - Wound area in mm2<255.300003] yes=13,no=14,missing=14
+				13:leaf=0.000555326638
+				14:leaf=0.00668595219
+		4:[Wound Area V3 vs V1<-0.0299999993] yes=9,no=10,missing=10
+			9:leaf=0.0055998466
+			10:leaf=0.0214958098
+	2:[Wound Area V3 vs V1<-0.0299999993] yes=5,no=6,missing=5
+		5:leaf=-0.0143915182
+		6:[Visit 2 - Total cell number (exudate)<483870] yes=11,no=12,missing=11
+			11:[Visit 2 -  number of M1 dressing<56] yes=15,no=16,missing=16
+				15:[Visit 1 - Total cell number (exudate)<1290323] yes=19,no=20,missing=19
+					19:leaf=0.00159660378
+					20:leaf=2.636916e-05
+				16:leaf=-0.00235869107
+			12:[Wound Area V2 vs V1<0.170000002] yes=17,no=18,missing=18
+				17:leaf=-0.00766334403
+				18:leaf=-0.00162308384
+
+0:[Collagen slope<-0.866900027] yes=1,no=2,missing=2
+	1:[Visit 2 -  number of M1 dressing<52] yes=3,no=4,missing=4
+		3:[Visit 3 - Total cell number (exudate)<17142] yes=7,no=8,missing=8
+			7:leaf=0.0200609714
+			8:leaf=0.0046575102
+		4:leaf=-0.00384829682
+	2:[Healing Rate<9.96000004] yes=5,no=6,missing=6
+		5:[Wound Area V3 vs V1<-0.140000001] yes=9,no=10,missing=9
+			9:leaf=-0.0138570908
+			10:[Exudate Cell n r2<0.776300013] yes=13,no=14,missing=13
+				13:leaf=-0.00578318024
+				14:leaf=0.0013117562
+		6:[Visit 2-Protein in wou dressing <30.3387108] yes=11,no=12,missing=12
+			11:[Visit 3-CD105<7] yes=15,no=16,missing=16
+				15:leaf=-0.00370907225
+				16:leaf=0.00135810231
+			12:leaf=0.0100527238
+
+0:[r2<0.227200001] yes=1,no=2,missing=1
+	1:[Wound duration at day 0<76] yes=3,no=4,missing=4
+		3:leaf=0.0158511233
+		4:[Visit 3 - Total cell number (exudate)<162424] yes=7,no=8,missing=7
+			7:leaf=0.00370109198
+			8:leaf=-0.00281027518
+	2:[V3 -<43] yes=5,no=6,missing=5
+		5:[visit 3-Protein in wou dressing 3<24.1693497] yes=9,no=10,missing=10
+			9:leaf=-0.0187375583
+			10:[Exudate Cell n r2<0.782000005] yes=13,no=14,missing=14
+				13:[Exudate Cell n r2<0.742699981] yes=15,no=16,missing=16
+					15:leaf=-0.00306577026
+					16:leaf=0.000501443283
+				14:[Wound Area V3 vs V1<0.389999986] yes=17,no=18,missing=17
+					17:leaf=-0.00962005183
+					18:leaf=-0.00346284523
+		6:[r2<0.958400011] yes=11,no=12,missing=12
+			11:leaf=-0.0020441087
+			12:leaf=0.00739392219
+
+0:[CD105 Slope<73] yes=1,no=2,missing=1
+	1:[Healing Rate<-16.5100002] yes=3,no=4,missing=3
+		3:[Visit 1 - Total cell number (exudate)<10000] yes=5,no=6,missing=5
+			5:[Visit 3 -  number of M2 dressing<39] yes=9,no=10,missing=10
+				9:leaf=0.00728094578
+				10:[BMI<28.3999996] yes=17,no=18,missing=18
+					17:leaf=0.000373260555
+					18:leaf=-0.0105267251
+			6:[Visit 2 - Wound area in mm2<22.2000008] yes=11,no=12,missing=11
+				11:leaf=0.0148403337
+				12:[Visit 3 -  number of M2 Exudate<15] yes=19,no=20,missing=20
+					19:[Wound Area V3 vs V1<-0.0700000003] yes=23,no=24,missing=24
+						23:leaf=-0.000138507297
+						24:leaf=-0.00193704851
+					20:[visit 3-Protein in wou dressing 3<35.2949982] yes=25,no=26,missing=25
+						25:leaf=0.00262418366
+						26:leaf=0.00699342042
+		4:[Visit 1 - Wound area in mm2<462] yes=7,no=8,missing=8
+			7:[Collagen slope<95] yes=13,no=14,missing=14
+				13:leaf=-0.00827208254
+				14:leaf=-0.00116337463
+			8:[Visit 3 -  number of M2 dressing<1.21000004] yes=15,no=16,missing=16
+				15:leaf=0.00144003809
+				16:[Visit 3-CD105<73] yes=21,no=22,missing=22
+					21:leaf=-0.00419147452
+					22:leaf=-0.000951488793
+	2:leaf=-0.0149974702
+
+0:[Visit 1 - Total cell number (exudate)<560000] yes=1,no=2,missing=2
+	1:[BMI<21.7999992] yes=3,no=4,missing=4
+		3:[Visit 1 - Total cell number (exudate)<66666.6016] yes=7,no=8,missing=8
+			7:leaf=-0.00484245503
+			8:leaf=-0.0175383743
+		4:[CD105 Slope<9] yes=9,no=10,missing=9
+			9:[Visit 1 - Wound area in mm2<58.9000015] yes=13,no=14,missing=14
+				13:leaf=-0.00148545497
+				14:[Wound Area V3 vs V1<-0.140000001] yes=17,no=18,missing=18
+					17:leaf=0.00042924154
+					18:leaf=0.00139322109
+			10:leaf=-0.00507687777
+	2:[Wound Area V2 vs V1<0.200000003] yes=5,no=6,missing=6
+		5:leaf=0.0124996714
+		6:[Smoking status<1] yes=11,no=12,missing=11
+			11:[Healing Rate<10.46] yes=15,no=16,missing=16
+				15:[Wound Area V2 vs V1<0.379999995] yes=19,no=20,missing=20
+					19:leaf=0.000594888988
+					20:leaf=0.00245822617
+				16:leaf=-0.00111343886
+			12:leaf=-0.00517161377
+
+0:[V3 +<100] yes=1,no=2,missing=1
+	1:[Visit 3 -  number of M2 Exudate<12] yes=3,no=4,missing=4
+		3:[r2<0.880900025] yes=7,no=8,missing=7
+			7:leaf=0.0205758717
+			8:leaf=0.00265322998
+		4:[Visit 2-Protein in wou dressing <19.25] yes=9,no=10,missing=10
+			9:[Wound Area V2 vs V1<-0.0500000007] yes=13,no=14,missing=14
+				13:leaf=9.61928599e-05
+				14:leaf=0.00406723283
+			10:[r2<0.137600005] yes=15,no=16,missing=16
+				15:leaf=0.000429547537
+				16:leaf=-0.00521672703
+	2:[CD105 Slope<3] yes=5,no=6,missing=5
+		5:[Wound Area V2 vs V1<-0.119999997] yes=11,no=12,missing=12
+			11:leaf=0.000568857824
+			12:leaf=-0.00207465049
+		6:leaf=-0.0099038966
+
+0:[Visit 2-CD105 <3] yes=1,no=2,missing=2
+	1:[CD105 Slope<51] yes=3,no=4,missing=3
+		3:[Wound Area V2 vs V1<0] yes=7,no=8,missing=8
+			7:leaf=-0.00268909871
+			8:[Visit 1 - Total cell number (exudate)<441176] yes=13,no=14,missing=13
+				13:leaf=0.00344663556
+				14:leaf=0.000216959466
+		4:leaf=0.0143507523
+	2:[Exudate Cell n r2<0.919700027] yes=5,no=6,missing=6
+		5:[Wound Area V2 vs V1<-0.239999995] yes=9,no=10,missing=10
+			9:leaf=0.00644683046
+			10:[Charlson Comorbidity Index<6] yes=15,no=16,missing=16
+				15:leaf=-0.00397697138
+				16:[r2<0.952199996] yes=17,no=18,missing=17
+					17:leaf=0.00108476763
+					18:leaf=-0.00119714998
+		6:[Wound Area V2 vs V1<0.180000007] yes=11,no=12,missing=12
+			11:leaf=-0.0159474518
+			12:leaf=-0.00452343514
+
+0:[Collagen slope<-1.97580004] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<0.289999992] yes=3,no=4,missing=4
+		3:leaf=0.0170823149
+		4:[r2<0.704200029] yes=7,no=8,missing=7
+			7:leaf=-0.000560628425
+			8:leaf=-0.00262180134
+	2:[Visit 3 - Wound area in mm2<278] yes=5,no=6,missing=5
+		5:[Visit 2 - Total cell number (exudate)<3225] yes=9,no=10,missing=10
+			9:leaf=0.00170569017
+			10:[r2<0.704200029] yes=13,no=14,missing=14
+				13:[Healing Rate<3.24000001] yes=17,no=18,missing=18
+					17:leaf=-0.00208100444
+					18:leaf=-0.00031293786
+				14:[Exudate Cell n. slope<-57576] yes=19,no=20,missing=20
+					19:leaf=-0.00268942746
+					20:leaf=-0.0075134798
+		6:[Visit 2-Protein in wou dressing <2.8790319] yes=11,no=12,missing=11
+			11:leaf=-0.000581035565
+			12:[Visit 1 - Wound area in mm2<528.799988] yes=15,no=16,missing=16
+				15:leaf=0.00137303676
+				16:leaf=0.00507631339
+
+0:[Exudate Cell n. slope<470589] yes=1,no=2,missing=2
+	1:[Healing Rate<-14] yes=3,no=4,missing=3
+		3:[Visit 2 -  number of M1 dressing<22] yes=7,no=8,missing=8
+			7:leaf=0.00891762692
+			8:[Visit 1 - Wound area in mm2<175.600006] yes=13,no=14,missing=14
+				13:leaf=-0.0010639393
+				14:[Visit 2 - Total cell number (exudate)<13000] yes=21,no=22,missing=22
+					21:leaf=0.00273273117
+					22:leaf=0.00101063109
+		4:[Exudate Cell n. slope<-28698] yes=9,no=10,missing=10
+			9:leaf=-0.00355509971
+			10:[Wound Area V2 vs V1<0.300000012] yes=15,no=16,missing=16
+				15:leaf=0.000766187557
+				16:leaf=-0.000459828792
+	2:[Visit 3 - Wound area in mm2<45.7999992] yes=5,no=6,missing=6
+		5:leaf=-0.0116274655
+		6:[BMI<30.1000004] yes=11,no=12,missing=12
+			11:[Visit 3-CD105<98] yes=17,no=18,missing=17
+				17:leaf=-0.00390521181
+				18:leaf=-0.000691915629
+			12:[Wound Area V3 vs V1<1] yes=19,no=20,missing=19
+				19:leaf=0.00170451519
+				20:leaf=-0.000486920559
+
+0:[Visit 3 -  number of M2 dressing<100] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<52] yes=3,no=4,missing=4
+		3:[Visit 2 -  number of M1 Exudate<4] yes=7,no=8,missing=8
+			7:[Tot Vistis<4] yes=13,no=14,missing=14
+				13:leaf=-0.00493757892
+				14:leaf=0.00163168763
+			8:[Wound Area V2 vs V1<0.289999992] yes=15,no=16,missing=16
+				15:[Collagen slope<-18.4150009] yes=19,no=20,missing=19
+					19:leaf=0.0047767479
+					20:leaf=0.0188114252
+				16:leaf=0.00120134361
+		4:[Wound Area V3 vs V1<-0.140000001] yes=9,no=10,missing=9
+			9:leaf=-0.00939308014
+			10:[Visit 3 - Wound area in mm2<280.299988] yes=17,no=18,missing=17
+				17:[Visit 2 - Total cell number (exudate)<108125] yes=21,no=22,missing=21
+					21:leaf=-0.00265782559
+					22:leaf=-0.000715062895
+				18:leaf=0.00290715555
+	2:[Wound Area V2 vs V1<-0.230000004] yes=5,no=6,missing=6
+		5:leaf=-0.0172130559
+		6:[Visit 3 - Wound area in mm2<24.1000004] yes=11,no=12,missing=11
+			11:leaf=-0.00337191299
+			12:leaf=-0.000353353767
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:[Wound Area V3 vs V1<-0.00999999978] yes=3,no=4,missing=3
+		3:[Wound Area V2 vs V1<0.389999986] yes=7,no=8,missing=8
+			7:leaf=-0.00862855744
+			8:leaf=-0.00228550355
+		4:[Visit 2 -  number of M1 dressing<100] yes=9,no=10,missing=9
+			9:[Visit 1 - Wound area in mm2<462] yes=13,no=14,missing=14
+				13:[Visit 1 - Wound area in mm2<63.7999992] yes=15,no=16,missing=16
+					15:leaf=-0.000321220665
+					16:leaf=-0.00345707661
+				14:[r2<0.704200029] yes=17,no=18,missing=18
+					17:leaf=1.22523916e-05
+					18:leaf=0.00157155737
+			10:leaf=-0.00512927631
+	2:[Age<57] yes=5,no=6,missing=6
+		5:leaf=0.00848570094
+		6:[V2 +<100] yes=11,no=12,missing=12
+			11:leaf=0.0027506263
+			12:leaf=-0.000900497311
+
+0:[Visit 2-CD105 <39] yes=1,no=2,missing=1
+	1:[BMI<21.7999992] yes=3,no=4,missing=4
+		3:leaf=-0.0150025999
+		4:[Visit 2-Protein in wou dressing <56.2599983] yes=7,no=8,missing=8
+			7:[Visit 2 - Wound area in mm2<54.5] yes=9,no=10,missing=9
+				9:leaf=-0.00346747087
+				10:[Visit 2-CD105 <7] yes=13,no=14,missing=13
+					13:[Exudate Cell n r2<0.637000024] yes=17,no=18,missing=18
+						17:leaf=0.000844671216
+						18:leaf=0.00354377413
+					14:leaf=0.000455478119
+			8:[Visit 3-CD105<17] yes=11,no=12,missing=11
+				11:[Wound Area V3 vs V1<0.389999986] yes=15,no=16,missing=15
+					15:leaf=-0.00557613047
+					16:leaf=-0.00186958374
+				12:leaf=-0.000267926167
+	2:[r2<0.431499988] yes=5,no=6,missing=6
+		5:leaf=-0.000317200756
+		6:leaf=0.0159424208
+
+0:[Visit 1 - Total cell number (exudate)<6666] yes=1,no=2,missing=1
+	1:[Wound Area V2 vs V1<0.0399999991] yes=3,no=4,missing=4
+		3:[Wound Area V2 vs V1<-0.0500000007] yes=7,no=8,missing=8
+			7:leaf=0.000834347971
+			8:leaf=0.0163464434
+		4:[Wound Area V2 vs V1<0.389999986] yes=9,no=10,missing=10
+			9:leaf=-0.00649044989
+			10:[r2<0.678499997] yes=13,no=14,missing=14
+				13:leaf=0.000128553729
+				14:leaf=-0.00179899798
+	2:[Exudate Cell n r2<300000] yes=5,no=6,missing=6
+		5:[Visit 3 - Total cell number (exudate)<2673333] yes=11,no=12,missing=11
+			11:[Visit 3 -  number of M2 Exudate<5] yes=15,no=16,missing=16
+				15:leaf=-0.000381715479
+				16:[Visit 3 - Wound area in mm2<947.200012] yes=17,no=18,missing=17
+					17:[Exudate Cell n. slope<-930107] yes=19,no=20,missing=20
+						19:leaf=-0.00223707478
+						20:leaf=-0.00571118435
+					18:leaf=-0.000568400545
+			12:leaf=0.000198636582
+		6:leaf=-0.0123433126
+
+0:[Visit 2-CD105 <39] yes=1,no=2,missing=2
+	1:[Visit 3 - Total cell number (exudate)<29411] yes=3,no=4,missing=3
+		3:[r2<0.432700008] yes=7,no=8,missing=8
+			7:leaf=0.00101195823
+			8:[Wound Area V3 vs V1<0.389999986] yes=13,no=14,missing=13
+				13:leaf=-0.0117506543
+				14:leaf=-0.00296492944
+		4:[Exudate Cell n r2<0.337099999] yes=9,no=10,missing=10
+			9:leaf=0.00354424864
+			10:[Healing Rate<-9.35000038] yes=15,no=16,missing=16
+				15:leaf=-0.00216878927
+				16:leaf=0.000415108399
+	2:[Visit 3 -  number of M2 dressing<9] yes=5,no=6,missing=6
+		5:leaf=0.0144879995
+		6:[Visit 1 - Wound area in mm2<583] yes=11,no=12,missing=11
+			11:[Visit 2 - Total cell number (exudate)<2666] yes=17,no=18,missing=17
+				17:leaf=-0.000952154573
+				18:[Visit 2 - Total cell number (exudate)<30967] yes=21,no=22,missing=22
+					21:leaf=0.00201414945
+					22:leaf=0.000436293107
+			12:[Healing Rate<67] yes=19,no=20,missing=20
+				19:leaf=0.00703164702
+				20:leaf=0.00234984769
+
+0:[Visit 3-CD105<73] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<630] yes=3,no=4,missing=3
+		3:[Age<83] yes=7,no=8,missing=8
+			7:[Female(0),Male(1)<1] yes=11,no=12,missing=12
+				11:leaf=-0.00751918694
+				12:[Visit 3 - Wound area in mm2<65.8000031] yes=15,no=16,missing=16
+					15:leaf=-0.000148318446
+					16:leaf=-0.00307705416
+			8:leaf=-0.000149977088
+		4:leaf=0.00648729503
+	2:[Visit 3 -  number of M2 Exudate<7] yes=5,no=6,missing=6
+		5:leaf=0.0120541081
+		6:[Visit 1 - Total cell number (exudate)<300000] yes=9,no=10,missing=9
+			9:[r2<0.952199996] yes=13,no=14,missing=13
+				13:leaf=0.000678702898
+				14:leaf=-0.000917991798
+			10:leaf=0.00361171551
+
+0:[Wound duration at day 0<76] yes=1,no=2,missing=2
+	1:[Visit 3 -  number of M2 dressing<9] yes=3,no=4,missing=4
+		3:leaf=0.00960947201
+		4:leaf=-0.00182812754
+	2:[Visit 1 - Total cell number (exudate)<1833333] yes=5,no=6,missing=6
+		5:[Charlson Comorbidity Index<8] yes=7,no=8,missing=8
+			7:[V3 +<58] yes=11,no=12,missing=12
+				11:leaf=0.00274977228
+				12:[Visit 2 -  number of M1 Exudate<35] yes=13,no=14,missing=13
+					13:[Wound Area V2 vs V1<0.0500000007] yes=15,no=16,missing=16
+						15:leaf=0.000529840705
+						16:leaf=-0.000243691058
+					14:leaf=-0.00208888715
+			8:leaf=-0.00384071539
+		6:[Visit 2 - Total cell number (exudate)<150666] yes=9,no=10,missing=9
+			9:leaf=-0.00981406868
+			10:leaf=-0.00349804503
+
+0:[Visit 2-CD105 <22] yes=1,no=2,missing=2
+	1:[Female(0),Male(1)<1] yes=3,no=4,missing=4
+		3:[V1 +<77] yes=7,no=8,missing=8
+			7:leaf=-0.00341799087
+			8:leaf=-0.0140776504
+		4:[V3 +<83] yes=9,no=10,missing=10
+			9:leaf=0.00385247543
+			10:[Exudate Cell n r2<0.102799997] yes=13,no=14,missing=14
+				13:leaf=-0.00386233116
+				14:[Healing Rate<-12.7200003] yes=19,no=20,missing=20
+					19:leaf=-0.000770581595
+					20:leaf=0.000238892666
+	2:[Visit 3 -  number of M2 dressing<11] yes=5,no=6,missing=6
+		5:leaf=0.0116952658
+		6:[Visit 3 - Wound area in mm2<280.299988] yes=11,no=12,missing=11
+			11:[Wound duration at day 0<42] yes=15,no=16,missing=16
+				15:leaf=0.000428483967
+				16:[r2<0.92049998] yes=21,no=22,missing=22
+					21:leaf=-0.00551191485
+					22:leaf=-0.000654199161
+			12:[Exudate Cell n r2<0.637000024] yes=17,no=18,missing=18
+				17:leaf=0.000543203612
+				18:leaf=0.00437453622
+
+0:[Wound Area V2 vs V1<0.129999995] yes=1,no=2,missing=2
+	1:[Visit 3-CD105<43] yes=3,no=4,missing=3
+		3:[Visit 2 - Total cell number (exudate)<88235] yes=7,no=8,missing=8
+			7:[Exudate Cell n. slope<-10667] yes=11,no=12,missing=12
+				11:leaf=0.00266621588
+				12:leaf=-0.000457099552
+			8:leaf=-0.0064669014
+		4:leaf=0.0131934211
+	2:[Tot Vistis<3] yes=5,no=6,missing=6
+		5:leaf=-0.00574073521
+		6:[Age<72] yes=9,no=10,missing=10
+			9:leaf=-0.00190148712
+			10:[r2<0.709299982] yes=13,no=14,missing=14
+				13:[Tot Vistis<4] yes=15,no=16,missing=16
+					15:leaf=-1.1027877e-05
+					16:leaf=0.000486350211
+				14:leaf=0.00237071933
+
+0:[V1 +<83] yes=1,no=2,missing=1
+	1:[Visit 3 -  number of M2 Exudate<18] yes=3,no=4,missing=4
+		3:leaf=0.0135579053
+		4:[CD105 Slope<2] yes=7,no=8,missing=8
+			7:leaf=0.00241156737
+			8:leaf=-0.00284275319
+	2:[Visit 2-CD105 <80] yes=5,no=6,missing=6
+		5:[visit 3-Protein in wou dressing 3<29.6532249] yes=9,no=10,missing=10
+			9:[Wound Area V2 vs V1<0.0500000007] yes=13,no=14,missing=14
+				13:leaf=-0.0118235694
+				14:leaf=-0.00192860689
+			10:[r2<0.888100028] yes=15,no=16,missing=16
+				15:[Wound Area V3 vs V1<0.189999998] yes=19,no=20,missing=20
+					19:leaf=-0.00219237036
+					20:leaf=4.88581099e-05
+				16:leaf=0.00413030712
+		6:[Visit 2-Protein in wou dressing <19.4919395] yes=11,no=12,missing=11
+			11:[Visit 1 - Wound area in mm2<255.300003] yes=17,no=18,missing=18
+				17:leaf=1.46300836e-05
+				18:leaf=0.00186996337
+			12:leaf=0.00606011553
+
+0:[Visit 3-CD105<100] yes=1,no=2,missing=1
+	1:[Age<83] yes=3,no=4,missing=4
+		3:[Collagen slope<-7.93149996] yes=5,no=6,missing=5
+			5:[Visit 2 - Wound area in mm2<54.5] yes=9,no=10,missing=9
+				9:[Age<61] yes=13,no=14,missing=14
+					13:leaf=0.000169196152
+					14:leaf=-0.00158620102
+				10:[Visit 1 - Total cell number (exudate)<48648] yes=15,no=16,missing=16
+					15:leaf=0.00138386013
+					16:leaf=0.00378867495
+			6:[Visit 3 - Total cell number (exudate)<227924] yes=11,no=12,missing=11
+				11:[Visit 1 - Wound area in mm2<139.300003] yes=17,no=18,missing=18
+					17:leaf=-0.00264548231
+					18:leaf=-0.00644351123
+				12:leaf=-0.000543282367
+		4:[Visit 1 - Total cell number (exudate)<58823] yes=7,no=8,missing=7
+			7:leaf=0.00513212103
+			8:leaf=-0.00012941334
+	2:leaf=0.0104241371
+
+0:[Wound Area V2 vs V1<0.379999995] yes=1,no=2,missing=2
+	1:[Collagen slope<36] yes=3,no=4,missing=4
+		3:[Visit 3 - Total cell number (exudate)<1482666] yes=7,no=8,missing=7
+			7:[Healing Rate<-48] yes=11,no=12,missing=12
+				11:leaf=0.00247186585
+				12:leaf=0.0112955058
+			8:[r2<0.880900025] yes=13,no=14,missing=13
+				13:leaf=-0.000296517101
+				14:leaf=-0.00254514138
+		4:[Visit 2 - Total cell number (exudate)<1060606] yes=9,no=10,missing=10
+			9:[V2-vol<2] yes=15,no=16,missing=16
+				15:leaf=0.00208147126
+				16:leaf=0.000402071746
+			10:leaf=-0.00659991428
+	2:[Collagen slope<-11.7019997] yes=5,no=6,missing=6
+		5:leaf=2.74090453e-05
+		6:leaf=-0.00366945751
+
+0:[Visit 2 -  number of M1 dressing<7] yes=1,no=2,missing=1
+	1:[Visit 2-CD105 <39] yes=3,no=4,missing=3
+		3:[Age<70] yes=7,no=8,missing=8
+			7:leaf=-0.00406167656
+			8:[Age<81] yes=13,no=14,missing=14
+				13:leaf=-3.68043948e-05
+				14:[Visit 1 - Total cell number (exudate)<441176] yes=19,no=20,missing=19
+					19:leaf=0.00320964842
+					20:leaf=0.000328730501
+		4:leaf=0.00829923712
+	2:[Wound Area V3 vs V1<0.910000026] yes=5,no=6,missing=6
+		5:[Visit 2-Protein in wou dressing <30.3387108] yes=9,no=10,missing=10
+			9:[Visit 3 - Wound area in mm2<220.699997] yes=15,no=16,missing=16
+				15:[r2<0.947600007] yes=21,no=22,missing=22
+					21:leaf=0.000176899528
+					22:leaf=-0.00080541533
+				16:leaf=0.00151752029
+			10:[Wound Area V2 vs V1<0.189999998] yes=17,no=18,missing=18
+				17:leaf=-0.00261719967
+				18:leaf=-0.000234358522
+		6:[r2<0.257099986] yes=11,no=12,missing=12
+			11:leaf=-0.00112610019
+			12:leaf=-0.00650250679
+
+0:[Visit 2 -  number of M1 dressing<14] yes=1,no=2,missing=2
+	1:[Visit 3 -  number of M2 dressing<0] yes=3,no=4,missing=3
+		3:leaf=0.00224656495
+		4:[Healing Rate<210.839996] yes=7,no=8,missing=8
+			7:leaf=-0.0025883941
+			8:leaf=-0.0066229091
+	2:[Visit 3 -  number of M2 dressing<44] yes=5,no=6,missing=6
+		5:[Healing Rate<-48] yes=9,no=10,missing=10
+			9:leaf=0.00232247985
+			10:leaf=0.0102073802
+		6:[Visit 1 - Wound area in mm2<255.300003] yes=11,no=12,missing=12
+			11:[visit 3-Protein in wou dressing 3<33.4032288] yes=13,no=14,missing=13
+				13:[Tot Vistis<4] yes=17,no=18,missing=18
+					17:leaf=-6.2239219e-06
+					18:leaf=0.000303098583
+				14:leaf=-0.00202997541
+			12:[Charlson Comorbidity Index<4] yes=15,no=16,missing=16
+				15:leaf=0.000466956844
+				16:leaf=0.00281338929
+
+0:[Age<85] yes=1,no=2,missing=2
+	1:[Visit 3 - Wound area in mm2<278] yes=3,no=4,missing=4
+		3:[Exudate Cell n. slope<147676] yes=7,no=8,missing=8
+			7:[Visit 2 - Total cell number (exudate)<95625] yes=13,no=14,missing=14
+				13:leaf=0.000904647168
+				14:[Healing Rate<-19.6000004] yes=21,no=22,missing=21
+					21:leaf=-0.000645597698
+					22:leaf=-0.00323318946
+			8:leaf=-0.00787028018
+		4:[Visit 2 -  number of M1 dressing<7] yes=9,no=10,missing=10
+			9:[Tot Vistis<3] yes=15,no=16,missing=16
+				15:leaf=0.00804728363
+				16:leaf=0.00171156076
+			10:[Visit 2-CD105 <199] yes=17,no=18,missing=18
+				17:leaf=-0.00177838223
+				18:leaf=-0.000400932098
+	2:[visit 3-Protein in wou dressing 3<45.9838715] yes=5,no=6,missing=6
+		5:leaf=0.00920061022
+		6:[Visit 3 -  number of M2 dressing<0] yes=11,no=12,missing=11
+			11:leaf=0.00449602632
+			12:[Visit 1 - Wound area in mm2<58.2000008] yes=19,no=20,missing=19
+				19:leaf=0.000748380087
+				20:leaf=-0.00063657522
+
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=2
+	1:[Visit 2-Protein in wou dressing <34.8548393] yes=3,no=4,missing=4
+		3:[r2<0.856000006] yes=7,no=8,missing=8
+			7:leaf=-0.00063826621
+			8:leaf=0.000266102754
+		4:leaf=0.00947479531
+	2:[Diabetes<1] yes=5,no=6,missing=6
+		5:[r2<0.642400026] yes=9,no=10,missing=10
+			9:leaf=-0.0020539104
+			10:[Wound Area V2 vs V1<0.479999989] yes=13,no=14,missing=14
+				13:leaf=0.000886400347
+				14:leaf=0.000149558065
+		6:[Collagen slope<-11.7019997] yes=11,no=12,missing=12
+			11:leaf=-0.00075781293
+			12:[Wound Area V2 vs V1<0.449999988] yes=15,no=16,missing=16
+				15:leaf=-0.00625280384
+				16:leaf=-0.00221874262
+
+0:[Visit 2 - Total cell number (exudate)<9333.2998] yes=1,no=2,missing=1
+	1:[Visit 3-CD105<43] yes=3,no=4,missing=3
+		3:[BMI<34.9000015] yes=7,no=8,missing=8
+			7:[Healing Rate<28.7700005] yes=13,no=14,missing=13
+				13:leaf=-0.00207059877
+				14:leaf=0.000245050382
+			8:leaf=0.00149746914
+		4:leaf=0.00905466732
+	2:[Healing Rate<-135] yes=5,no=6,missing=5
+		5:[Visit 3-CD105<33] yes=9,no=10,missing=9
+			9:[Visit 3 -  number of M2 dressing<-33] yes=15,no=16,missing=15
+				15:[Visit 3 - Total cell number (exudate)<100000] yes=19,no=20,missing=19
+					19:[Visit 2 - Total cell number (exudate)<95625] yes=21,no=22,missing=22
+						21:leaf=0.000295899168
+						22:leaf=3.20626241e-05
+					20:leaf=0.00163727626
+				16:leaf=-0.00170269818
+			10:leaf=0.00616599014
+		6:[Exudate Cell n r2<300000] yes=11,no=12,missing=12
+			11:[Visit 3 -  number of M2 dressing<7] yes=17,no=18,missing=17
+				17:leaf=-0.00427853735
+				18:leaf=-0.00081559486
+			12:leaf=-0.0100197932
+
+0:[Wound Area V2 vs V1<0.00999999978] yes=1,no=2,missing=2
+	1:[CD105 Slope<50] yes=3,no=4,missing=3
+		3:[Visit 2-Protein in wou dressing <30.3387108] yes=7,no=8,missing=8
+			7:leaf=0.000255922554
+			8:leaf=-0.0020977438
+		4:leaf=0.00975673832
+	2:[Wound Area V3 vs V1<0.189999998] yes=5,no=6,missing=5
+		5:[Age<74] yes=9,no=10,missing=10
+			9:leaf=-0.00223053386
+			10:leaf=-0.00871101208
+		6:[Wound Area V3 vs V1<0.300000012] yes=11,no=12,missing=12
+			11:leaf=0.00436111027
+			12:[r2<0.704200029] yes=13,no=14,missing=13
+				13:leaf=-0.0019745992
+				14:[Wound Area V2 vs V1<0.479999989] yes=15,no=16,missing=16
+					15:leaf=0.000504053605
+					16:leaf=0.000130350454
+
+0:[Visit 2-CD105 <50] yes=1,no=2,missing=1
+	1:[Wound Area V2 vs V1<-0.230000004] yes=3,no=4,missing=4
+		3:leaf=-0.0119506577
+		4:[Visit 1 - Total cell number (exudate)<52173] yes=7,no=8,missing=7
+			7:[visit 3-Protein in wou dressing 3<42.435482] yes=11,no=12,missing=11
+				11:[BMI<34.9000015] yes=15,no=16,missing=16
+					15:[Wound Area V3 vs V1<0.0299999993] yes=21,no=22,missing=22
+						21:leaf=0.000213270221
+						22:leaf=-0.00167185965
+					16:leaf=0.00107785291
+				12:leaf=0.00387370586
+			8:[Visit 3-CD105<20] yes=13,no=14,missing=13
+				13:[Healing Rate<210.839996] yes=17,no=18,missing=18
+					17:[Wound Area V3 vs V1<0.910000026] yes=23,no=24,missing=23
+						23:leaf=-0.00241903006
+						24:leaf=-0.000772570143
+					18:leaf=0.000302570261
+				14:[r2<0.84799999] yes=19,no=20,missing=19
+					19:leaf=-0.00728498492
+					20:leaf=-0.00228867773
+	2:[Healing Rate<28.7700005] yes=5,no=6,missing=6
+		5:[CD105 Slope<-20] yes=9,no=10,missing=10
+			9:leaf=-0.00199574768
+			10:leaf=0.000386345986
+		6:leaf=0.00822463073
+
+0:[Visit 2 - Wound area in mm2<528.400024] yes=1,no=2,missing=2
+	1:[Exudate Cell n. slope<1000000] yes=3,no=4,missing=4
+		3:[Visit 2-Protein in wou dressing <45.8225822] yes=7,no=8,missing=8
+			7:[Visit 2-Protein in wou dressing <43.6048393] yes=13,no=14,missing=14
+				13:[Wound Area V2 vs V1<0.0199999996] yes=17,no=18,missing=18
+					17:[Visit 1 - Total cell number (exudate)<3333] yes=19,no=20,missing=20
+						19:leaf=0.000199052345
+						20:leaf=-0.00170827308
+					18:leaf=0.000524538453
+				14:leaf=0.00341984443
+			8:leaf=-0.00322762947
+		4:leaf=-0.00646050042
+	2:[Visit 3 -  number of M2 Exudate<18] yes=5,no=6,missing=6
+		5:[Diabetes<1] yes=9,no=10,missing=10
+			9:leaf=0.00720836921
+			10:leaf=0.00124513905
+		6:[Wound duration at day 0<69] yes=11,no=12,missing=12
+			11:leaf=-0.0017288588
+			12:[Visit 1 - Total cell number (exudate)<560000] yes=15,no=16,missing=16
+				15:leaf=0.000912965217
+				16:leaf=0.0028299347
+
+0:[Collagen slope<-11.7220001] yes=1,no=2,missing=1
+	1:[Visit 1 - Total cell number (exudate)<560000] yes=3,no=4,missing=3
+		3:leaf=-0.000351923867
+		4:leaf=0.0046216636
+	2:[Wound Area V3 vs V1<0.829999983] yes=5,no=6,missing=6
+		5:[Visit 1 - Total cell number (exudate)<88571] yes=7,no=8,missing=7
+			7:[Visit 1 - Total cell number (exudate)<2222] yes=9,no=10,missing=9
+				9:leaf=0.000202132069
+				10:leaf=-0.000885091838
+			8:leaf=-0.00261294632
+		6:leaf=-0.00507899327
+
+0:[Age<81] yes=1,no=2,missing=2
+	1:[Visit 2 - Total cell number (exudate)<150666] yes=3,no=4,missing=3
+		3:[Wound duration at day 0<6] yes=7,no=8,missing=8
+			7:leaf=0.00425251387
+			8:[Charlson Comorbidity Index<8] yes=13,no=14,missing=14
+				13:[Wound Area V2 vs V1<0.409999996] yes=15,no=16,missing=16
+					15:[Visit 3-CD105<11] yes=17,no=18,missing=18
+						17:leaf=-0.000216672386
+						18:leaf=0.00192065316
+					16:[Wound Area V3 vs V1<0.769999981] yes=19,no=20,missing=20
+						19:leaf=-0.000576594321
+						20:leaf=-0.00155892549
+				14:leaf=-0.00519858673
+		4:[Visit 2 -  number of M1 dressing<32] yes=9,no=10,missing=9
+			9:leaf=-0.00292559899
+			10:leaf=-0.00869919453
+	2:[Exudate Cell n r2<0.776300013] yes=5,no=6,missing=6
+		5:leaf=0.00755659956
+		6:[Age<85] yes=11,no=12,missing=11
+			11:leaf=0.00200999738
+			12:leaf=-0.000179786817
+
+0:[Visit 2-CD105 <100] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 Exudate<38] yes=3,no=4,missing=3
+		3:[Collagen slope<9] yes=7,no=8,missing=7
+			7:[Visit 3 - Total cell number (exudate)<6451.6001] yes=9,no=10,missing=9
+				9:[BMI<30.1000004] yes=13,no=14,missing=14
+					13:[Exudate Cell n. slope<-10667] yes=17,no=18,missing=18
+						17:leaf=8.0061167e-05
+						18:leaf=-0.000873409852
+					14:leaf=0.00133748853
+				10:[r2<0.880900025] yes=15,no=16,missing=16
+					15:leaf=0.000919071143
+					16:leaf=0.0028458999
+			8:[Wound Area V2 vs V1<-0.0700000003] yes=11,no=12,missing=12
+				11:leaf=9.54350835e-05
+				12:leaf=-0.00197056262
+		4:leaf=-0.00503058452
+	2:[Visit 2 - Total cell number (exudate)<400000] yes=5,no=6,missing=6
+		5:leaf=0.00563505758
+		6:leaf=0.00171968515
+
+0:[Wound Area V2 vs V1<-0.230000004] yes=1,no=2,missing=2
+	1:leaf=-0.0105737913
+	2:[Visit 3 - Wound area in mm2<111.699997] yes=3,no=4,missing=4
+		3:[Visit 3-CD105<20] yes=5,no=6,missing=5
+			5:[r2<0.899600029] yes=9,no=10,missing=10
+				9:[Visit 2-Protein in wou dressing <43.6048393] yes=15,no=16,missing=16
+					15:leaf=-0.000475348817
+					16:leaf=-0.00251199049
+				10:leaf=-2.82014553e-05
+			6:leaf=-0.00680659059
+		4:[Visit 2 -  number of M1 Exudate<9] yes=7,no=8,missing=7
+			7:[Visit 3-CD105<98] yes=11,no=12,missing=12
+				11:leaf=-0.00311218575
+				12:[r2<0.642400026] yes=17,no=18,missing=18
+					17:leaf=-0.000110584813
+					18:leaf=0.000309680618
+			8:[r2<0.431499988] yes=13,no=14,missing=13
+				13:leaf=0.00593265099
+				14:leaf=0.000569408177
+
+0:[Exudate Cell n r2<0.773400009] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 Exudate<14] yes=3,no=4,missing=4
+		3:[Exudate Cell n r2<0.751399994] yes=7,no=8,missing=8
+			7:[r2<0.55400002] yes=13,no=14,missing=13
+				13:leaf=-0.00146456412
+				14:leaf=6.27965055e-05
+			8:leaf=-0.00540714571
+		4:[r2<0.947600007] yes=9,no=10,missing=10
+			9:[Wound Area V3 vs V1<0.660000026] yes=15,no=16,missing=15
+				15:leaf=-0.00083361112
+				16:leaf=0.00101004529
+			10:[Wound Area V2 vs V1<-0.0500000007] yes=17,no=18,missing=18
+				17:leaf=0.000770119193
+				18:leaf=0.00337085919
+	2:[V2-vol<2] yes=5,no=6,missing=6
+		5:[Wound Area V2 vs V1<0.569999993] yes=11,no=12,missing=12
+			11:leaf=-0.000117778916
+			12:leaf=0.00134297868
+		6:leaf=0.00708442787
+
+0:[Visit 2 - Total cell number (exudate)<5000000] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<14] yes=3,no=4,missing=4
+		3:[Visit 1 - Total cell number (exudate)<300000] yes=5,no=6,missing=5
+			5:[Visit 2 - Total cell number (exudate)<10000] yes=9,no=10,missing=9
+				9:leaf=-0.00517199002
+				10:leaf=-0.0024226422
+			6:leaf=0.000771651277
+		4:[Healing Rate<59.1800003] yes=7,no=8,missing=8
+			7:[Wound Area V2 vs V1<0.0199999996] yes=11,no=12,missing=12
+				11:[Healing Rate<-22.1000004] yes=15,no=16,missing=16
+					15:leaf=-0.000673785922
+					16:leaf=-0.000137061681
+				12:[Visit 2 - Total cell number (exudate)<428571] yes=17,no=18,missing=18
+					17:leaf=0.00205260701
+					18:leaf=0.000364497595
+			8:[Collagen slope<33] yes=13,no=14,missing=14
+				13:leaf=0.00684616202
+				14:leaf=0.00213884166
+	2:leaf=-0.00775878504
+
+0:[Visit 2 -  number of M1 Exudate<13] yes=1,no=2,missing=1
+	1:[Collagen slope<-0.866900027] yes=3,no=4,missing=4
+		3:leaf=0.00720317429
+		4:[BMI<21.7999992] yes=7,no=8,missing=7
+			7:leaf=0.00323947379
+			8:[Age<72] yes=11,no=12,missing=12
+				11:[Age<61] yes=13,no=14,missing=14
+					13:leaf=-0.00064628449
+					14:leaf=-0.00211570528
+				12:[Visit 2-CD105 <4] yes=15,no=16,missing=15
+					15:[Visit 3 - Total cell number (exudate)<6451.6001] yes=17,no=18,missing=18
+						17:leaf=5.94512385e-05
+						18:leaf=0.0012580686
+					16:leaf=-0.00134975777
+	2:[Female(0),Male(1)<1] yes=5,no=6,missing=6
+		5:leaf=-0.0105750244
+		6:[Visit 2 - Wound area in mm2<77.3000031] yes=9,no=10,missing=9
+			9:leaf=-0.000165188932
+			10:leaf=0.00125445635
+
+0:[Wound Area V2 vs V1<-0.230000004] yes=1,no=2,missing=2
+	1:leaf=-0.00873464439
+	2:[Visit 2-Protein in wou dressing <12.7580643] yes=3,no=4,missing=4
+		3:[Wound Area V3 vs V1<0.379999995] yes=5,no=6,missing=6
+			5:leaf=-0.000734251051
+			6:leaf=-0.00394531433
+		4:[Visit 3-CD105<7] yes=7,no=8,missing=8
+			7:leaf=0.00468126871
+			8:[visit 3-Protein in wou dressing 3<42.435482] yes=9,no=10,missing=10
+				9:[Healing Rate<-16.7000008] yes=11,no=12,missing=12
+					11:leaf=-7.18644005e-05
+					12:[Wound Area V3 vs V1<0.319999993] yes=15,no=16,missing=16
+						15:leaf=0.00326748192
+						16:leaf=0.00112321414
+				10:[Age<62] yes=13,no=14,missing=14
+					13:leaf=0.00059845217
+					14:[Visit 3 - Total cell number (exudate)<36842] yes=17,no=18,missing=17
+						17:leaf=-0.00216151937
+						18:leaf=-0.000411758811
+
+0:[Charlson Comorbidity Index<8] yes=1,no=2,missing=2
+	1:[Visit 3-CD105<51] yes=3,no=4,missing=3
+		3:[Visit 2 - Total cell number (exudate)<833333.312] yes=7,no=8,missing=8
+			7:[Visit 2 - Wound area in mm2<630] yes=11,no=12,missing=12
+				11:[Age<81] yes=15,no=16,missing=16
+					15:[visit 3-Protein in wou dressing 3<29.6129036] yes=17,no=18,missing=17
+						17:leaf=0.000156086346
+						18:leaf=-0.00114000682
+					16:leaf=0.00201179623
+				12:leaf=0.00382866152
+			8:[Visit 3-CD105<17] yes=13,no=14,missing=13
+				13:leaf=-0.00174067914
+				14:leaf=0.00026848042
+		4:[Collagen slope<-18.4150009] yes=9,no=10,missing=10
+			9:leaf=0.00111669395
+			10:leaf=0.00842833985
+	2:[Healing Rate<-6.86999989] yes=5,no=6,missing=6
+		5:leaf=0.000531747355
+		6:leaf=-0.00492324121
+
+0:[Visit 3 -  number of M2 Exudate<23] yes=1,no=2,missing=1
+	1:[Wound Area V2 vs V1<0.129999995] yes=3,no=4,missing=4
+		3:[Visit 2-Protein in wou dressing <43.6048393] yes=7,no=8,missing=8
+			7:[Visit 1 - Total cell number (exudate)<11764.7002] yes=13,no=14,missing=14
+				13:leaf=0.000931207556
+				14:leaf=-0.000559071603
+			8:leaf=0.00713341916
+		4:[Visit 3 -  number of M2 Exudate<10] yes=9,no=10,missing=10
+			9:[Visit 1 - Total cell number (exudate)<125000] yes=15,no=16,missing=16
+				15:leaf=-0.0013913021
+				16:leaf=-0.00410403078
+			10:[BMI<34.9000015] yes=17,no=18,missing=18
+				17:leaf=-0.000217373483
+				18:leaf=0.00118696084
+	2:[Healing Rate<-33.6399994] yes=5,no=6,missing=5
+		5:leaf=-0.00728714932
+		6:[Visit 3 - Wound area in mm2<59.5] yes=11,no=12,missing=11
+			11:leaf=-0.00132065942
+			12:leaf=9.1650174e-05
+
+0:[Exudate Cell n. slope<784.150024] yes=1,no=2,missing=1
+	1:[Visit 3 -  number of M2 dressing<-29.8899994] yes=3,no=4,missing=3
+		3:[PAD<1] yes=7,no=8,missing=7
+			7:[Exudate Cell n. slope<-37334] yes=13,no=14,missing=13
+				13:leaf=-0.00118560286
+				14:leaf=0.00088427728
+			8:leaf=0.00249472284
+		4:[CD105 Slope<67] yes=9,no=10,missing=10
+			9:[Visit 2 - Total cell number (exudate)<9333.2998] yes=15,no=16,missing=15
+				15:[Visit 2 - Wound area in mm2<77.3000031] yes=19,no=20,missing=19
+					19:leaf=-0.000393881055
+					20:leaf=0.00143420394
+				16:[Collagen slope<8.36690044] yes=21,no=22,missing=22
+					21:leaf=-0.00205497933
+					22:leaf=-0.000571380602
+			10:leaf=-0.0069067562
+	2:[Exudate Cell n. slope<17310] yes=5,no=6,missing=6
+		5:leaf=0.00625406671
+		6:[V2 +<84] yes=11,no=12,missing=12
+			11:leaf=-0.00129647274
+			12:[Wound Area V2 vs V1<-0.0599999987] yes=17,no=18,missing=18
+				17:leaf=-1.07474625e-05
+				18:[r2<0.431499988] yes=23,no=24,missing=24
+					23:leaf=0.00256898324
+					24:leaf=0.000856080849
+
+0:[Visit 2 -  number of M1 dressing<14] yes=1,no=2,missing=1
+	1:[Visit 3 - Wound area in mm2<367.799988] yes=3,no=4,missing=3
+		3:[Wound Area V2 vs V1<0.449999988] yes=7,no=8,missing=8
+			7:[Visit 2-Protein in wou dressing <55.7419357] yes=15,no=16,missing=16
+				15:leaf=-0.000858244777
+				16:leaf=-0.00313648768
+			8:leaf=-0.000244170194
+		4:[Exudate Cell n. slope<420000] yes=9,no=10,missing=10
+			9:leaf=0.00198086235
+			10:leaf=-0.000315957179
+	2:[Visit 3 - Total cell number (exudate)<79047.6016] yes=5,no=6,missing=5
+		5:[Wound Area V2 vs V1<0.0399999991] yes=11,no=12,missing=12
+			11:leaf=0.00655858172
+			12:leaf=0.000475052104
+		6:[Healing Rate<-22.1000004] yes=13,no=14,missing=13
+			13:leaf=-0.000768083264
+			14:leaf=0.000423191028
+
+0:[Visit 2 - Total cell number (exudate)<833333.312] yes=1,no=2,missing=1
+	1:[Wound Area V2 vs V1<0.379999995] yes=3,no=4,missing=4
+		3:[Visit 3 -  number of M2 dressing<100] yes=5,no=6,missing=5
+			5:[Visit 2-Protein in wou dressing <56.9500008] yes=9,no=10,missing=10
+				9:[Collagen slope<20] yes=11,no=12,missing=12
+					11:[Wound Area V2 vs V1<0.189999998] yes=13,no=14,missing=14
+						13:leaf=-0.000760045659
+						14:leaf=0.000896861777
+					12:[V2 +<27] yes=15,no=16,missing=16
+						15:leaf=3.57706995e-05
+						16:leaf=0.00263164262
+				10:leaf=0.00573707232
+			6:leaf=-0.00245325849
+		4:[Visit 2 - Wound area in mm2<22.2000008] yes=7,no=8,missing=8
+			7:leaf=0.000380308338
+			8:leaf=-0.00188014121
+	2:leaf=-0.00493489159
+
+0:[V3 +<85] yes=1,no=2,missing=1
+	1:[PAD<1] yes=3,no=4,missing=4
+		3:[BMI<30.7999992] yes=7,no=8,missing=8
+			7:[Visit 2-CD105 <39] yes=15,no=16,missing=16
+				15:leaf=-0.00308257225
+				16:leaf=-0.000539457717
+			8:leaf=0.00150565896
+		4:[Visit 3 - Total cell number (exudate)<79047.6016] yes=9,no=10,missing=9
+			9:leaf=0.00507418951
+			10:leaf=-0.0013796048
+	2:[Exudate Cell n r2<0.782000005] yes=5,no=6,missing=6
+		5:[Visit 3 -  number of M2 Exudate<5] yes=11,no=12,missing=11
+			11:leaf=0.00151237729
+			12:[Visit 3 - Wound area in mm2<65.8000031] yes=17,no=18,missing=18
+				17:leaf=-0.000232153907
+				18:leaf=-0.000969710469
+		6:[Wound Area V3 vs V1<-0.150000006] yes=13,no=14,missing=14
+			13:leaf=-0.00973873492
+			14:[Visit 1 - Total cell number (exudate)<1833333] yes=19,no=20,missing=20
+				19:[Tot Vistis<4] yes=21,no=22,missing=22
+					21:leaf=-0.000592725002
+					22:leaf=-6.43331441e-06
+				20:leaf=-0.00322095235
+
+0:[Wound Area V3 vs V1<-0.150000006] yes=1,no=2,missing=2
+	1:leaf=-0.00907098129
+	2:[BMI<30.7999992] yes=3,no=4,missing=4
+		3:[BMI<30.1000004] yes=5,no=6,missing=6
+			5:[CD105 Slope<9] yes=9,no=10,missing=9
+				9:[CD105 Slope<-12] yes=13,no=14,missing=13
+					13:[Visit 2 - Wound area in mm2<212.5] yes=17,no=18,missing=17
+						17:leaf=-0.000842288136
+						18:leaf=-0.000252863159
+					14:[Tot Vistis<4] yes=19,no=20,missing=20
+						19:leaf=-4.97055089e-06
+						20:leaf=0.000519056164
+				10:leaf=-0.00170229957
+			6:leaf=-0.00490275538
+		4:[Visit 3-CD105<51] yes=7,no=8,missing=7
+			7:[Age<59] yes=11,no=12,missing=11
+				11:leaf=0.00233338005
+				12:[Visit 2 - Wound area in mm2<54.5] yes=15,no=16,missing=15
+					15:leaf=-0.00210422976
+					16:[Age<73] yes=21,no=22,missing=22
+						21:leaf=-0.000577991712
+						22:leaf=0.000961737067
+			8:leaf=0.00687368214
+
+0:[CD105 Slope<73] yes=1,no=2,missing=1
+	1:[CD105 Slope<50] yes=3,no=4,missing=3
+		3:[Visit 2 -  number of M1 Exudate<35] yes=5,no=6,missing=5
+			5:[Visit 3-CD105<2] yes=7,no=8,missing=8
+				7:leaf=0.00352793536
+				8:[visit 3-Protein in wou dressing 3<35.2949982] yes=11,no=12,missing=11
+					11:[Healing Rate<-22.1000004] yes=13,no=14,missing=13
+						13:leaf=-0.000771869032
+						14:leaf=0.000396013784
+					12:leaf=0.00149222964
+			6:[Exudate Cell n r2<0.809499979] yes=9,no=10,missing=10
+				9:leaf=-0.00266211177
+				10:leaf=-0.000391146488
+		4:leaf=0.00619605137
+	2:leaf=-0.00669019157
+
+0:[Exudate Cell n r2<300000] yes=1,no=2,missing=2
+	1:[V3-vol<2] yes=3,no=4,missing=4
+		3:[Healing Rate<3.24000001] yes=7,no=8,missing=7
+			7:leaf=-2.09107511e-05
+			8:leaf=-0.000701798999
+		4:[Visit 2 -  number of M1 dressing<44] yes=9,no=10,missing=10
+			9:leaf=0.00489099091
+			10:[Visit 1 - Wound area in mm2<255.300003] yes=13,no=14,missing=14
+				13:[Visit 1 - Wound area in mm2<63.7999992] yes=15,no=16,missing=16
+					15:leaf=0.000544355891
+					16:leaf=-0.000115692477
+				14:leaf=0.00161290995
+	2:[Wound Area V2 vs V1<0.0500000007] yes=5,no=6,missing=6
+		5:leaf=-0.00596294506
+		6:[BMI<34.9000015] yes=11,no=12,missing=12
+			11:leaf=-0.00118199026
+			12:leaf=0.000414420618
+
+0:[Visit 3-CD105<100] yes=1,no=2,missing=1
+	1:[Age<81] yes=3,no=4,missing=4
+		3:[Visit 3 -  number of M2 dressing<10] yes=5,no=6,missing=6
+			5:leaf=-0.00227260427
+			6:[Wound duration at day 0<69] yes=9,no=10,missing=10
+				9:[Charlson Comorbidity Index<4] yes=15,no=16,missing=16
+					15:[Wound Area V2 vs V1<0.0199999996] yes=19,no=20,missing=20
+						19:leaf=-0.000300732354
+						20:leaf=0.000200991431
+					16:leaf=-0.00115695025
+				10:[Exudate Cell n. slope<-12227.5] yes=17,no=18,missing=18
+					17:leaf=0.00111898268
+					18:leaf=0.000186144345
+		4:[Wound duration at day 0<240] yes=7,no=8,missing=7
+			7:[Healing Rate<-6.86999989] yes=11,no=12,missing=12
+				11:leaf=0.00123952609
+				12:leaf=0.00384530029
+			8:[r2<0.709299982] yes=13,no=14,missing=14
+				13:leaf=-6.78144497e-05
+				14:leaf=-0.00176002143
+	2:leaf=0.00565491524
+
+0:[Wound duration at day 0<174] yes=1,no=2,missing=2
+	1:[Wound duration at day 0<6] yes=3,no=4,missing=4
+		3:leaf=0.00310731633
+		4:[Age<78] yes=7,no=8,missing=8
+			7:[Healing Rate<28.7700005] yes=9,no=10,missing=9
+				9:[Visit 2-Protein in wou dressing <10.7419395] yes=13,no=14,missing=13
+					13:leaf=-0.002388831
+					14:leaf=-0.000667824817
+				10:leaf=0.000680270139
+			8:[Healing Rate<-10.3599997] yes=11,no=12,missing=11
+				11:leaf=0.00170032738
+				12:leaf=0.000248224067
+	2:[V3 +<58] yes=5,no=6,missing=6
+		5:leaf=0.000557172636
+		6:leaf=0.00395885529
+
+0:[Visit 2 - Total cell number (exudate)<13000] yes=1,no=2,missing=2
+	1:[Age<62] yes=3,no=4,missing=4
+		3:leaf=-0.000285987655
+		4:leaf=0.00503166299
+	2:[Wound Area V2 vs V1<-0.219999999] yes=5,no=6,missing=6
+		5:leaf=-0.00494185137
+		6:[r2<0.961799979] yes=7,no=8,missing=8
+			7:[Healing Rate<9.96000004] yes=9,no=10,missing=10
+				9:[Visit 2-CD105 <18] yes=13,no=14,missing=14
+					13:[Visit 1 - Wound area in mm2<667.700012] yes=17,no=18,missing=17
+						17:leaf=-0.000639343692
+						18:leaf=0.000396346673
+					14:leaf=-0.00187466166
+				10:leaf=0.00106861477
+			8:[Visit 3 - Total cell number (exudate)<1666] yes=11,no=12,missing=11
+				11:[Tot Vistis<4] yes=15,no=16,missing=16
+					15:leaf=0.000295910955
+					16:leaf=-1.51395795e-06
+				12:leaf=0.00227817404
+
+0:[Charlson Comorbidity Index<9] yes=1,no=2,missing=1
+	1:[Visit 1 - Wound area in mm2<58.2000008] yes=3,no=4,missing=4
+		3:[Tot Vistis<4] yes=5,no=6,missing=6
+			5:[Wound Area V2 vs V1<0.529999971] yes=9,no=10,missing=10
+				9:leaf=-2.56836643e-06
+				10:leaf=-0.000795354892
+			6:leaf=-0.00295286276
+		4:[Age<77] yes=7,no=8,missing=8
+			7:[PAD<1] yes=11,no=12,missing=12
+				11:[Visit 2-CD105 <33] yes=15,no=16,missing=15
+					15:[Visit 2 - Total cell number (exudate)<428571] yes=21,no=22,missing=22
+						21:leaf=0.000451150176
+						22:leaf=-0.000340810948
+					16:leaf=-0.00137982471
+				12:[Visit 3-CD105<60] yes=17,no=18,missing=17
+					17:leaf=0.00237495708
+					18:leaf=0.000386055413
+			8:[r2<0.852500021] yes=13,no=14,missing=13
+				13:[Visit 1 - Total cell number (exudate)<3333] yes=19,no=20,missing=20
+					19:leaf=-1.43647196e-06
+					20:leaf=0.00433889125
+				14:leaf=-0.000262641319
+	2:leaf=-0.00370141375
+
+0:[Visit 3 -  number of M2 dressing<100] yes=1,no=2,missing=1
+	1:[Healing Rate<108.629997] yes=3,no=4,missing=4
+		3:[Age<81] yes=7,no=8,missing=8
+			7:[Visit 2-Protein in wou dressing <10.7419395] yes=11,no=12,missing=12
+				11:leaf=-0.00242577563
+				12:[Wound Area V3 vs V1<1] yes=15,no=16,missing=15
+					15:leaf=-0.000907410053
+					16:leaf=0.000171093183
+			8:leaf=0.000998543226
+		4:[Visit 3 -  number of M2 dressing<1.21000004] yes=9,no=10,missing=10
+			9:leaf=0.00495730853
+			10:[Visit 3 -  number of M2 Exudate<9] yes=13,no=14,missing=14
+				13:leaf=-0.00223766896
+				14:[Wound Area V2 vs V1<-0.0900000036] yes=17,no=18,missing=18
+					17:leaf=0.00218311534
+					18:[Wound Area V3 vs V1<-0.0900000036] yes=19,no=20,missing=20
+						19:leaf=-1.36494634e-06
+						20:leaf=0.000797518936
+	2:[Wound Area V3 vs V1<-0.0700000003] yes=5,no=6,missing=6
+		5:leaf=-0.006354718
+		6:leaf=-0.000243781906
+
+0:[Wound Area V2 vs V1<-0.209999993] yes=1,no=2,missing=2
+	1:leaf=0.00483991485
+	2:[Age<85] yes=3,no=4,missing=4
+		3:[Charlson Comorbidity Index<8] yes=5,no=6,missing=6
+			5:[Visit 3 - Wound area in mm2<17] yes=9,no=10,missing=10
+				9:leaf=-0.00139238976
+				10:[BMI<34.9000015] yes=13,no=14,missing=14
+					13:[Visit 3 - Total cell number (exudate)<344000] yes=15,no=16,missing=16
+						15:leaf=4.69143051e-05
+						16:leaf=-0.000640972052
+					14:[Visit 1 - Total cell number (exudate)<357575.688] yes=17,no=18,missing=18
+						17:leaf=3.70126304e-06
+						18:leaf=0.000680412399
+			6:leaf=-0.00256098853
+		4:[r2<0.678499997] yes=7,no=8,missing=7
+			7:leaf=0.00272181258
+			8:[Wound Area V2 vs V1<0.200000003] yes=11,no=12,missing=12
+				11:leaf=0.000122680722
+				12:leaf=-9.45158547e-07
+
+0:[Visit 2 - Wound area in mm2<54.5] yes=1,no=2,missing=2
+	1:leaf=-0.00305129751
+	2:[Wound Area V3 vs V1<0.319999993] yes=3,no=4,missing=3
+		3:[Visit 3 -  number of M2 Exudate<12] yes=5,no=6,missing=6
+			5:leaf=0.00425641192
+			6:[Charlson Comorbidity Index<7] yes=9,no=10,missing=10
+				9:[Visit 1 - Total cell number (exudate)<1290322] yes=15,no=16,missing=16
+					15:[Visit 1 - Wound area in mm2<255.300003] yes=17,no=18,missing=18
+						17:leaf=4.47054699e-05
+						18:leaf=0.000967046071
+					16:leaf=-0.000902879692
+				10:leaf=0.00223623659
+		4:[Visit 2 -  number of M1 Exudate<5] yes=7,no=8,missing=7
+			7:[r2<0.925899982] yes=11,no=12,missing=12
+				11:leaf=0.000705674582
+				12:leaf=-4.66387137e-05
+			8:[V2 +<95] yes=13,no=14,missing=14
+				13:leaf=-9.66180669e-05
+				14:leaf=-0.000822594797
+
+0:[visit 3-Protein in wou dressing 3<24.1693497] yes=1,no=2,missing=2
+	1:[Wound Area V3 vs V1<-0.150000006] yes=3,no=4,missing=4
+		3:leaf=-0.00822124537
+		4:[Wound Area V2 vs V1<-0.0500000007] yes=7,no=8,missing=8
+			7:leaf=-5.88297871e-06
+			8:leaf=-0.000799400266
+	2:[Visit 3 -  number of M2 Exudate<7] yes=5,no=6,missing=5
+		5:[Wound Area V2 vs V1<-0.209999993] yes=9,no=10,missing=10
+			9:leaf=0.00447430881
+			10:[Visit 2 - Wound area in mm2<54.5] yes=13,no=14,missing=13
+				13:leaf=-0.00111955765
+				14:[Wound Area V2 vs V1<0.200000003] yes=17,no=18,missing=18
+					17:leaf=0.00107930065
+					18:leaf=0.000266055082
+		6:[Healing Rate<-33.6399994] yes=11,no=12,missing=11
+			11:leaf=-0.00353699969
+			12:[Healing Rate<9.96000004] yes=15,no=16,missing=16
+				15:leaf=-0.000727817591
+				16:leaf=4.91643914e-05
+
+0:[Visit 3 -  number of M2 dressing<0] yes=1,no=2,missing=1
+	1:[Visit 2 -  number of M1 dressing<45] yes=3,no=4,missing=3
+		3:[r2<0.92049998] yes=7,no=8,missing=8
+			7:leaf=-0.000678247714
+			8:[Visit 3 - Total cell number (exudate)<6451.6001] yes=11,no=12,missing=11
+				11:[Wound Area V3 vs V1<-0.0900000036] yes=17,no=18,missing=18
+					17:leaf=-5.59091586e-06
+					18:leaf=0.000544676383
+				12:leaf=0.00161066221
+		4:leaf=0.00301232794
+	2:[Exudate Cell n r2<0.991100013] yes=5,no=6,missing=5
+		5:[PAD<1] yes=9,no=10,missing=10
+			9:[Visit 1 - Total cell number (exudate)<20000] yes=13,no=14,missing=14
+				13:leaf=-0.000243189555
+				14:leaf=-0.0028265263
+			10:[Visit 1 - Total cell number (exudate)<31044] yes=15,no=16,missing=15
+				15:[Wound Area V3 vs V1<0.319999993] yes=19,no=20,missing=19
+					19:leaf=8.06041789e-05
+					20:leaf=-0.000609720824
+				16:leaf=0.00110876409
+		6:leaf=-0.00766185252
+
+0:[Visit 3 - Wound area in mm2<350] yes=1,no=2,missing=2
+	1:[Visit 1 - Total cell number (exudate)<166666] yes=3,no=4,missing=4
+		3:[Visit 2-CD105 <3] yes=7,no=8,missing=8
+			7:leaf=-0.000648786547
+			8:[r2<0.852500021] yes=13,no=14,missing=13
+				13:[Visit 3 - Wound area in mm2<278] yes=15,no=16,missing=16
+					15:leaf=-0.000160929369
+					16:leaf=-5.31077376e-06
+				14:leaf=0.000302235567
+		4:leaf=-0.00277769403
+	2:[Wound Area V2 vs V1<0.0399999991] yes=5,no=6,missing=6
+		5:[Visit 1 - Wound area in mm2<611.200012] yes=9,no=10,missing=10
+			9:leaf=0.000819102803
+			10:leaf=0.003907796
+		6:[r2<0.704200029] yes=11,no=12,missing=12
+			11:leaf=0.000336977595
+			12:leaf=-0.000900394225
+
+0:[visit 3-Protein in wou dressing 3<24.1693497] yes=1,no=2,missing=2
+	1:[Visit 1 - Total cell number (exudate)<66666.6016] yes=3,no=4,missing=3
+		3:[Wound Area V3 vs V1<-0.0900000036] yes=7,no=8,missing=8
+			7:leaf=-5.04255286e-06
+			8:leaf=0.000127759296
+		4:leaf=-0.00633411109
+	2:[Visit 3 - Total cell number (exudate)<36842] yes=5,no=6,missing=6
+		5:[Smoking status<1] yes=9,no=10,missing=10
+			9:[Visit 1 - Total cell number (exudate)<125000] yes=13,no=14,missing=14
+				13:leaf=-0.000605528418
+				14:leaf=0.000585783389
+			10:[Visit 1 - Wound area in mm2<139.300003] yes=15,no=16,missing=15
+				15:leaf=0.00496512465
+				16:leaf=0.00121844525
+		6:[Charlson Comorbidity Index<8] yes=11,no=12,missing=12
+			11:[BMI<26.2999992] yes=17,no=18,missing=18
+				17:[CD105 Slope<-2] yes=19,no=20,missing=19
+					19:leaf=-0.000755773857
+					20:leaf=-4.00355639e-05
+				18:[Visit 3 - Wound area in mm2<65.8000031] yes=21,no=22,missing=22
+					21:leaf=-0.00014941617
+					22:leaf=0.000666098902
+			12:leaf=-0.00266802008
+
+0:[Collagen slope<33] yes=1,no=2,missing=1
+	1:[Visit 3 -  number of M2 Exudate<2] yes=3,no=4,missing=4
+		3:[Wound Area V2 vs V1<0.00999999978] yes=7,no=8,missing=8
+			7:leaf=0.00493637146
+			8:leaf=0.000904188957
+		4:[Visit 2 - Total cell number (exudate)<400000] yes=9,no=10,missing=10
+			9:[Visit 1 - Total cell number (exudate)<3333] yes=11,no=12,missing=12
+				11:leaf=-0.000126320941
+				12:[r2<0.431499988] yes=15,no=16,missing=15
+					15:leaf=0.00242140843
+					16:leaf=0.000736565562
+			10:[Visit 2 -  number of M1 dressing<3] yes=13,no=14,missing=14
+				13:leaf=0.00115282985
+				14:[Visit 3 -  number of M2 dressing<100] yes=17,no=18,missing=17
+					17:[BMI<34.9000015] yes=19,no=20,missing=20
+						19:leaf=-9.5438787e-05
+						20:leaf=0.000372679875
+					18:[Wound Area V2 vs V1<-0.0799999982] yes=21,no=22,missing=22
+						21:leaf=-0.000557380205
+						22:leaf=-0.000238375185
+	2:[Wound Area V3 vs V1<-0.0700000003] yes=5,no=6,missing=6
+		5:leaf=-0.0051810923
+		6:leaf=-0.000322879263
+
+0:[CD105 Slope<67] yes=1,no=2,missing=1
+	1:[Wound Area V3 vs V1<-0.150000006] yes=3,no=4,missing=3
+		3:[Wound Area V2 vs V1<0.289999992] yes=7,no=8,missing=8
+			7:leaf=0.00341960276
+			8:[r2<0.137600005] yes=11,no=12,missing=12
+				11:leaf=0.000783612428
+				12:leaf=-0.000625278743
+		4:[Visit 3 -  number of M2 Exudate<16] yes=9,no=10,missing=10
+			9:[V1-vol<3] yes=13,no=14,missing=13
+				13:[Exudate Cell n. slope<1000000] yes=17,no=18,missing=18
+					17:[BMI<28.7000008] yes=21,no=22,missing=22
+						21:leaf=-0.000395203155
+						22:leaf=-0.00100095279
+					18:leaf=-0.00246137171
+				14:leaf=0.000752427848
+			10:[Collagen slope<5] yes=15,no=16,missing=16
+				15:leaf=0.000758093898
+				16:[Wound duration at day 0<72] yes=19,no=20,missing=20
+					19:[Wound Area V2 vs V1<0.460000008] yes=23,no=24,missing=24
+						23:leaf=0.000121151235
+						24:leaf=-0.000370300259
+					20:[Wound Area V3 vs V1<0.0299999993] yes=25,no=26,missing=26
+						25:leaf=5.8798003e-05
+						26:leaf=0.000355911878
+	2:[Wound Area V3 vs V1<-0.0299999993] yes=5,no=6,missing=5
+		5:leaf=-0.00463853497
+		6:leaf=-0.000839341374
+
+0:[Visit 2 - Wound area in mm2<528.400024] yes=1,no=2,missing=2
+	1:[Exudate Cell n r2<300000] yes=3,no=4,missing=4
+		3:[Visit 2 - Wound area in mm2<83] yes=7,no=8,missing=8
+			7:[Healing Rate<-16.5100002] yes=11,no=12,missing=12
+				11:leaf=0.000425920734
+				12:leaf=8.85904501e-06
+			8:[Visit 1 - Total cell number (exudate)<3333] yes=13,no=14,missing=14
+				13:leaf=-1.41859061e-06
+				14:leaf=-0.000742449833
+		4:leaf=-0.00246284762
+	2:[Visit 1 - Wound area in mm2<1169.90002] yes=5,no=6,missing=5
+		5:[Visit 3-CD105<2] yes=9,no=10,missing=10
+			9:leaf=0.00247713993
+			10:[Wound Area V2 vs V1<0.409999996] yes=15,no=16,missing=16
+				15:leaf=0.00106479088
+				16:leaf=0.000127521096
+		6:leaf=-0.000322715059
+
+0:[Visit 3 -  number of M2 dressing<9] yes=1,no=2,missing=2
+	1:[Wound Area V2 vs V1<0.289999992] yes=3,no=4,missing=4
+		3:leaf=0.0037045714
+		4:leaf=-0.000446224876
+	2:[Visit 2 - Total cell number (exudate)<5000000] yes=5,no=6,missing=6
+		5:[visit 3-Protein in wou dressing 3<1.91129005] yes=7,no=8,missing=7
+			7:[Charlson Comorbidity Index<7] yes=11,no=12,missing=12
+				11:leaf=0.000334120821
+				12:leaf=0.00141254533
+			8:[Visit 2 -  number of M1 dressing<3] yes=13,no=14,missing=14
+				13:leaf=-0.000670277863
+				14:[Wound Area V2 vs V1<0.0199999996] yes=17,no=18,missing=18
+					17:leaf=-3.04747464e-05
+					18:leaf=0.000417823525
+		6:[Wound Area V3 vs V1<-0.0700000003] yes=9,no=10,missing=10
+			9:leaf=-0.00477409037
+			10:[Wound Area V2 vs V1<0.389999986] yes=15,no=16,missing=16
+				15:leaf=-0.000669328903
+				16:[Age<59] yes=19,no=20,missing=20
+					19:leaf=0.0001190197
+					20:leaf=-0.000311299344
+
+0:[CD105 Slope<73] yes=1,no=2,missing=1
+	1:[Visit 1 - Wound area in mm2<58.2000008] yes=3,no=4,missing=4
+		3:leaf=-0.00135820394
+		4:[Age<78] yes=5,no=6,missing=6
+			5:[Healing Rate<59.1800003] yes=7,no=8,missing=8
+				7:[Wound Area V3 vs V1<0.300000012] yes=11,no=12,missing=12
+					11:leaf=0.000305531052
+					12:[Wound Area V2 vs V1<0.629999995] yes=17,no=18,missing=18
+						17:leaf=-0.000541189977
+						18:leaf=-0.000186844394
+				8:[Visit 1 - Total cell number (exudate)<300000] yes=13,no=14,missing=13
+					13:leaf=0.00104890426
+					14:leaf=0.000284575013
+			6:[Visit 3 -  number of M2 dressing<9] yes=9,no=10,missing=10
+				9:leaf=0.00281832437
+				10:[Charlson Comorbidity Index<7] yes=15,no=16,missing=16
+					15:[Wound Area V2 vs V1<-0.0500000007] yes=19,no=20,missing=20
+						19:leaf=8.12192375e-05
+						20:leaf=0.000524145435
+					16:leaf=0.00141166139
+	2:leaf=-0.0032158026
+
+0:[Wound Area V3 vs V1<-0.140000001] yes=1,no=2,missing=2
+	1:leaf=-0.00380413793
+	2:[Wound duration at day 0<12] yes=3,no=4,missing=3
+		3:leaf=0.00251465687
+		4:[Age<83] yes=5,no=6,missing=6
+			5:[Collagen slope<9] yes=7,no=8,missing=8
+				7:[Wound Area V2 vs V1<0.189999998] yes=11,no=12,missing=12
+					11:leaf=-0.00252020615
+					12:leaf=-0.000739091251
+				8:[Age<62] yes=13,no=14,missing=14
+					13:leaf=0.000382779923
+					14:[Visit 2 - Total cell number (exudate)<833333.312] yes=19,no=20,missing=20
+						19:leaf=4.18639871e-07
+						20:leaf=-0.000607155263
+			6:[Visit 1 - Wound area in mm2<583] yes=9,no=10,missing=9
+				9:[Wound Area V2 vs V1<0.129999995] yes=15,no=16,missing=16
+					15:leaf=0.00180517964
+					16:leaf=0.00066487497
+				10:[r2<0.432700008] yes=17,no=18,missing=18
+					17:leaf=-4.82625228e-06
+					18:leaf=0.000550170254
+
+0:[Wound Area V3 vs V1<0.100000001] yes=1,no=2,missing=2
+	1:[Exudate Cell n r2<0.991100013] yes=3,no=4,missing=4
+		3:[Wound Area V2 vs V1<0.0399999991] yes=7,no=8,missing=8
+			7:[Visit 2 - Total cell number (exudate)<42666.6016] yes=13,no=14,missing=14
+				13:leaf=-6.93797801e-06
+				14:leaf=0.00111717393
+			8:leaf=-0.00217406754
+		4:leaf=-0.0056774728
+	2:[Visit 3 -  number of M2 dressing<44] yes=5,no=6,missing=6
+		5:[Visit 2 - Wound area in mm2<257] yes=9,no=10,missing=9
+			9:leaf=0.00416685594
+			10:leaf=-0.00011191985
+		6:[Healing Rate<-16.7000008] yes=11,no=12,missing=11
+			11:[Charlson Comorbidity Index<5] yes=15,no=16,missing=16
+				15:leaf=-0.000164316516
+				16:leaf=-0.000940555357
+			12:[Visit 1 - Wound area in mm2<265.700012] yes=17,no=18,missing=17
+				17:leaf=0.000719263335
+				18:leaf=-2.22316576e-05
+
+0:[V1 +<87] yes=1,no=2,missing=2
+	1:[Visit 2 - Wound area in mm2<362] yes=3,no=4,missing=4
+		3:leaf=-0.00458779652
+		4:leaf=-0.00122615031
+	2:[Visit 2-CD105 <10] yes=5,no=6,missing=6
+		5:[Wound Area V2 vs V1<0.189999998] yes=7,no=8,missing=8
+			7:[Visit 1 - Total cell number (exudate)<66666.6016] yes=11,no=12,missing=12
+				11:leaf=-0.000447361555
+				12:leaf=-0.00189905392
+			8:[V3-vol<2] yes=13,no=14,missing=14
+				13:leaf=-0.000465323887
+				14:[Healing Rate<-48] yes=19,no=20,missing=20
+					19:leaf=0.000164011493
+					20:leaf=0.000797475048
+		6:[Wound duration at day 0<62] yes=9,no=10,missing=10
+			9:[Wound Area V2 vs V1<0.289999992] yes=15,no=16,missing=16
+				15:leaf=0.00315411552
+				16:leaf=0.000473421125
+			10:[Wound duration at day 0<80] yes=17,no=18,missing=18
+				17:leaf=-0.000693582522
+				18:[Visit 3 - Wound area in mm2<350] yes=21,no=22,missing=22
+					21:[Visit 1 - Total cell number (exudate)<3333] yes=23,no=24,missing=24
+						23:leaf=4.06456529e-05
+						24:leaf=0.00023394874
+					22:leaf=0.0012684114
+
+0:[BMI<21.7999992] yes=1,no=2,missing=2
+	1:[Wound Area V3 vs V1<0.100000001] yes=3,no=4,missing=4
+		3:leaf=-0.0052103065
+		4:leaf=-0.000230281308
+	2:[Wound Area V2 vs V1<-0.209999993] yes=5,no=6,missing=6
+		5:leaf=0.00265666749
+		6:[Tot Vistis<4] yes=7,no=8,missing=8
+			7:[Age<80] yes=9,no=10,missing=10
+				9:leaf=-0.00011216088
+				10:leaf=0.00105331698
+			8:[r2<0.947600007] yes=11,no=12,missing=12
+				11:[r2<0.852500021] yes=13,no=14,missing=14
+					13:leaf=0.000225061187
+					14:leaf=-0.00016733259
+				12:[Visit 2-CD105 <18] yes=15,no=16,missing=16
+					15:leaf=-0.00117585144
+					16:leaf=7.16686191e-05
+
+0:[Wound Area V2 vs V1<-0.0399999991] yes=1,no=2,missing=2
+	1:[CD105 Slope<23] yes=3,no=4,missing=3
+		3:[Wound Area V2 vs V1<-0.239999995] yes=7,no=8,missing=8
+			7:leaf=0.00143540639
+			8:[Healing Rate<-22.1000004] yes=13,no=14,missing=13
+				13:leaf=-0.000273871614
+				14:leaf=0.000199056682
+		4:leaf=0.00357238017
+	2:[Wound Area V3 vs V1<0.289999992] yes=5,no=6,missing=5
+		5:[Wound Area V2 vs V1<0.189999998] yes=9,no=10,missing=10
+			9:leaf=-0.00171655044
+			10:[Healing Rate<-10.8999996] yes=15,no=16,missing=16
+				15:leaf=-0.000517164823
+				16:leaf=0.000131814726
+		6:[Charlson Comorbidity Index<6] yes=11,no=12,missing=12
+			11:[Visit 3-CD105<43] yes=17,no=18,missing=17
+				17:leaf=0.000197138899
+				18:leaf=0.000935905438
+			12:[Visit 3 - Total cell number (exudate)<6451.6001] yes=19,no=20,missing=20
+				19:leaf=-0.000463834702
+				20:leaf=-9.11716415e-05
+

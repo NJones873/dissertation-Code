@@ -1,0 +1,310 @@
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=2
+	1:[Visit 2-CD105 <7] yes=3,no=4,missing=4
+		3:[Visit 2 -  number of M1 dressing<13] yes=7,no=8,missing=8
+			7:leaf=-0.472352415
+			8:leaf=0.429719776
+		4:leaf=0.87889123
+	2:[Wound duration at day 0<27] yes=5,no=6,missing=6
+		5:leaf=-0.104331918
+		6:leaf=-0.719661653
+
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=2
+	1:[visit 1-PDGF-BB Exudate<105.983902] yes=3,no=4,missing=4
+		3:leaf=-0.153913975
+		4:[Visit 2-CD105 <7] yes=7,no=8,missing=8
+			7:leaf=0.0571961477
+			8:leaf=0.620721102
+	2:[r2<0.990800023] yes=5,no=6,missing=6
+		5:leaf=-0.569614649
+		6:leaf=0.0711988434
+
+0:[Wound Area V2 vs V1<0.289999992] yes=1,no=2,missing=2
+	1:[Visit 2-CD105 <22] yes=3,no=4,missing=4
+		3:[visit 3-Protein in wou dressing 3<24.1693497] yes=5,no=6,missing=5
+			5:[Visit 2 - Total cell number (exudate)<10000] yes=7,no=8,missing=7
+				7:leaf=-0.0732100382
+				8:leaf=-0.502606332
+			6:leaf=0.387450516
+		4:leaf=0.533073485
+	2:leaf=-0.466703236
+
+0:[Wound Area V3 vs V1<0.389999986] yes=1,no=2,missing=1
+	1:[Exudate Cell n r2<0.991100013] yes=3,no=4,missing=4
+		3:[Visit 2-CD105 <13] yes=5,no=6,missing=6
+			5:leaf=0.0937664211
+			6:leaf=0.444203645
+		4:[Visit 3 -  number of M2 dressing<5.17999983] yes=7,no=8,missing=7
+			7:leaf=0.221751273
+			8:leaf=-0.335385889
+	2:leaf=-0.415990055
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=2
+	1:[visit 3-TNF-a dressing<281.709686] yes=3,no=4,missing=4
+		3:leaf=-0.116043016
+		4:leaf=0.395223707
+	2:[Visit 2-CD105 <33] yes=5,no=6,missing=5
+		5:leaf=-0.396538377
+		6:leaf=0.0583034493
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:[Exudate Cell n. slope<2471] yes=3,no=4,missing=3
+		3:leaf=-0.384853631
+		4:leaf=0.0583310612
+	2:[Visit 1 - Total cell number (exudate)<10000] yes=5,no=6,missing=5
+		5:leaf=0.0159299653
+		6:leaf=0.357327998
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:[Exudate Cell n. slope<2471] yes=3,no=4,missing=3
+		3:leaf=-0.316101253
+		4:leaf=0.0430132709
+	2:[Visit 3 - Total cell number (exudate)<6451.6001] yes=5,no=6,missing=5
+		5:leaf=0.013755329
+		6:leaf=0.318020076
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=1
+	1:[V3 -<17] yes=3,no=4,missing=3
+		3:[BMI<30.7999992] yes=5,no=6,missing=6
+			5:leaf=-0.233929545
+			6:leaf=0.233009607
+		4:leaf=0.32866618
+	2:leaf=-0.273189425
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=2
+	1:[Visit 3-CD105<25] yes=3,no=4,missing=4
+		3:leaf=-0.0615796037
+		4:leaf=0.269601524
+	2:leaf=-0.164288893
+
+0:[V3 -<17] yes=1,no=2,missing=2
+	1:leaf=-0.147883698
+	2:[Visit 3 -  number of M2 dressing<44] yes=3,no=4,missing=4
+		3:leaf=0.253961504
+		4:leaf=-0.0863052905
+
+0:[Visit 2-CD105 <22] yes=1,no=2,missing=1
+	1:[Visit 2 - Total cell number (exudate)<162857] yes=3,no=4,missing=4
+		3:leaf=0.0932299793
+		4:leaf=-0.243809342
+	2:leaf=0.196379408
+
+0:[r2<0.925899982] yes=1,no=2,missing=2
+	1:leaf=-0.151977807
+	2:leaf=0.135760531
+
+0:[Wound Area V3 vs V1<0.319999993] yes=1,no=2,missing=2
+	1:leaf=0.12440145
+	2:leaf=-0.14671807
+
+0:[Visit 2-CD105 <22] yes=1,no=2,missing=1
+	1:[Visit 1 - Wound area in mm2<83] yes=3,no=4,missing=3
+		3:leaf=-0.21952273
+		4:leaf=0.057629928
+	2:leaf=0.168120563
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:leaf=-0.129664317
+	2:leaf=0.122087814
+
+0:[Wound Area V2 vs V1<0.129999995] yes=1,no=2,missing=2
+	1:leaf=0.106803775
+	2:leaf=-0.148169592
+
+0:[Visit 2-CD105 <22] yes=1,no=2,missing=2
+	1:leaf=-0.112167232
+	2:leaf=0.121399857
+
+0:[Exudate Cell n r2<0.996900022] yes=1,no=2,missing=2
+	1:leaf=0.10548377
+	2:leaf=-0.11610958
+
+0:[Visit 3 -  number of M2 dressing<1.21000004] yes=1,no=2,missing=1
+	1:leaf=0.115463205
+	2:leaf=-0.0971560404
+
+0:[Visit 3-CD105<33] yes=1,no=2,missing=1
+	1:leaf=-0.0979170352
+	2:leaf=0.112987816
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:leaf=-0.097257778
+	2:leaf=0.0990415365
+
+0:[Visit 2 - Wound area in mm2<71.3000031] yes=1,no=2,missing=1
+	1:leaf=-0.102263443
+	2:leaf=0.112339519
+
+0:[V2 +<76] yes=1,no=2,missing=1
+	1:leaf=0.0958074406
+	2:leaf=-0.100053281
+
+0:[Exudate Cell n r2<0.996900022] yes=1,no=2,missing=2
+	1:leaf=0.0966397226
+	2:leaf=-0.10136535
+
+0:[r2<0.963400006] yes=1,no=2,missing=2
+	1:leaf=-0.0896901712
+	2:leaf=0.0842808932
+
+0:[Exudate Cell n r2<0.996900022] yes=1,no=2,missing=2
+	1:leaf=0.0791314095
+	2:leaf=-0.085760586
+
+0:[Visit 3-CD105<25] yes=1,no=2,missing=1
+	1:leaf=-0.0703757778
+	2:leaf=0.0707959458
+
+0:[Visit 2-CD105 <18] yes=1,no=2,missing=2
+	1:leaf=-0.0730473399
+	2:leaf=0.0740821958
+
+0:[Visit 3 - Wound area in mm2<350] yes=1,no=2,missing=2
+	1:leaf=-0.0739253536
+	2:leaf=0.0722923577
+
+0:[Visit 1 - Wound area in mm2<58.9000015] yes=1,no=2,missing=1
+	1:leaf=-0.0608149879
+	2:leaf=0.0605202578
+
+0:[Visit 2 - Total cell number (exudate)<9333.2998] yes=1,no=2,missing=1
+	1:leaf=0.0691356808
+	2:leaf=-0.0697596669
+
+0:leaf=-0.000268150558
+
+0:leaf=-0.000178871443
+
+0:leaf=-0.000119421085
+
+0:leaf=-7.96554014e-05
+
+0:leaf=-5.32209197e-05
+
+0:leaf=-3.55066441e-05
+
+0:leaf=-2.36783253e-05
+
+0:leaf=-1.58236762e-05
+
+0:leaf=-1.05477684e-05
+
+0:leaf=-7.08402786e-06
+
+0:leaf=-4.720167e-06
+
+0:leaf=-3.1440386e-06
+
+0:leaf=-2.06187906e-06
+
+0:leaf=-1.39968324e-06
+
+0:leaf=-9.52259882e-07
+
+0:leaf=-6.54289181e-07
+
+0:leaf=-4.03331597e-07
+
+0:leaf=-2.88661596e-07
+
+0:leaf=-1.74653692e-07
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
+0:leaf=-5.93604383e-08
+
